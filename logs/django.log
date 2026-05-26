@@ -1,0 +1,270 @@
+INFO 2026-05-26 07:32:08,597 autoreload 5147 8483643008 Watching for file changes with StatReloader
+WARNING 2026-05-26 07:32:10,889 log 5147 6138327040 Not Found: /
+WARNING 2026-05-26 07:32:10,890 log 5147 6138327040 "GET / HTTP/1.1" 404 2476
+WARNING 2026-05-26 07:32:21,404 log 5147 6138327040 Method Not Allowed: /api/users/login/
+WARNING 2026-05-26 07:32:21,406 log 5147 6138327040 "GET /api/users/login/ HTTP/1.1" 405 40
+INFO 2026-05-26 07:34:24,474 log 5147 6171979776 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 07:37:28,157 autoreload 5147 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:37:28,545 autoreload 5367 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:37:40,040 autoreload 5367 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:37:40,419 autoreload 5377 8483643008 Watching for file changes with StatReloader
+WARNING 2026-05-26 07:38:01,787 log 5377 6136885248 Bad Request: /api/users/login/
+WARNING 2026-05-26 07:38:01,787 log 5377 6136885248 "POST /api/users/login/ HTTP/1.1" 400 68
+WARNING 2026-05-26 07:38:45,421 log 5377 6136885248 Bad Request: /api/users/login/
+WARNING 2026-05-26 07:38:45,421 log 5377 6136885248 "POST /api/users/login/ HTTP/1.1" 400 68
+INFO 2026-05-26 07:39:24,035 autoreload 5377 8483643008 /Users/macbook/Desktop/Bist_Bot/private_orders_bot/urls.py changed, reloading.
+INFO 2026-05-26 07:39:24,391 autoreload 5415 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:39:30,707 autoreload 5415 8483643008 /Users/macbook/Desktop/Bist_Bot/private_orders_bot/urls.py changed, reloading.
+INFO 2026-05-26 07:39:31,049 autoreload 5420 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:40:01,262 autoreload 5420 8483643008 /Users/macbook/Desktop/Bist_Bot/private_orders_bot/urls.py changed, reloading.
+INFO 2026-05-26 07:40:01,605 autoreload 5429 8483643008 Watching for file changes with StatReloader
+WARNING 2026-05-26 07:40:02,864 log 5429 6127415296 Not Found: /
+WARNING 2026-05-26 07:40:02,864 log 5429 6127415296 "GET / HTTP/1.1" 404 2628
+INFO 2026-05-26 07:40:08,903 log 5429 6127415296 "GET /api-auth/login/ HTTP/1.1" 200 2700
+INFO 2026-05-26 07:40:08,926 log 5429 6144241664 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:08,926 log 5429 6127415296 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:08,928 log 5429 6161068032 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:08,929 log 5429 6177894400 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:08,945 log 5429 6177894400 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:18,308 log 5429 6177894400 "POST /api-auth/login/ HTTP/1.1" 302 0
+WARNING 2026-05-26 07:40:18,312 log 5429 6177894400 Not Found: /accounts/profile/
+WARNING 2026-05-26 07:40:18,312 log 5429 6177894400 "GET /accounts/profile/ HTTP/1.1" 404 2697
+WARNING 2026-05-26 07:40:31,775 log 5429 6177894400 Unauthorized: /api/orders/
+WARNING 2026-05-26 07:40:31,775 log 5429 6177894400 "GET /api/orders/ HTTP/1.1" 401 9940
+INFO 2026-05-26 07:40:31,793 log 5429 6177894400 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:31,794 log 5429 6127415296 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:31,793 log 5429 6144241664 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:31,793 log 5429 6161068032 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:31,800 log 5429 6177894400 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:31,800 log 5429 6211547136 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:31,801 log 5429 6194720768 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:40:33,458 log 5429 6194720768 "GET /api-auth/login/?next=/api/orders/ HTTP/1.1" 200 2712
+INFO 2026-05-26 07:40:40,530 log 5429 6194720768 "POST /api-auth/login/ HTTP/1.1" 302 0
+WARNING 2026-05-26 07:40:40,535 log 5429 6194720768 Unauthorized: /api/orders/
+WARNING 2026-05-26 07:40:40,535 log 5429 6194720768 "GET /api/orders/ HTTP/1.1" 401 9940
+INFO 2026-05-26 07:40:45,203 log 5429 6194720768 "GET /api-auth/login/?next=/api/orders/ HTTP/1.1" 200 2712
+INFO 2026-05-26 07:40:50,485 log 5429 6194720768 "POST /api-auth/login/ HTTP/1.1" 302 0
+WARNING 2026-05-26 07:40:50,491 log 5429 6194720768 Unauthorized: /api/orders/
+WARNING 2026-05-26 07:40:50,491 log 5429 6194720768 "GET /api/orders/ HTTP/1.1" 401 9940
+WARNING 2026-05-26 07:41:23,496 log 5429 6194720768 Not Found: /admin/store/book/
+WARNING 2026-05-26 07:41:23,497 log 5429 6194720768 "GET /admin/store/book/ HTTP/1.1" 404 5976
+INFO 2026-05-26 07:41:31,151 log 5429 6194720768 "GET /admin/ HTTP/1.1" 200 9023
+INFO 2026-05-26 07:41:31,166 log 5429 6194720768 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:31,172 log 5429 6211547136 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:31,174 log 5429 6144241664 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:31,174 log 5429 6127415296 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:31,173 log 5429 6194720768 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:31,176 log 5429 6177894400 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:31,178 log 5429 6177894400 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:31,182 log 5429 6127415296 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:31,182 log 5429 6177894400 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,862 log 5429 6177894400 "GET /admin/users/user/ HTTP/1.1" 200 14447
+INFO 2026-05-26 07:41:32,877 log 5429 6127415296 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,879 log 5429 6144241664 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,881 log 5429 6144241664 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,884 log 5429 6194720768 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,885 log 5429 6161068032 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,886 log 5429 6194720768 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,886 log 5429 6211547136 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,887 log 5429 6144241664 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,887 log 5429 6194720768 "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,885 log 5429 6127415296 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,889 log 5429 6127415296 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,893 log 5429 6127415296 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,893 log 5429 6177894400 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 07:41:32,895 log 5429 6177894400 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,912 log 5429 6127415296 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,912 log 5429 6177894400 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-05-26 07:41:32,912 log 5429 6194720768 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-26 07:43:34,426 autoreload 5429 8483643008 /Users/macbook/Desktop/Bist_Bot/private_orders_bot/settings.py changed, reloading.
+INFO 2026-05-26 07:43:34,857 autoreload 5512 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:43:57,562 autoreload 5512 8483643008 /Users/macbook/Desktop/Bist_Bot/private_orders_bot/settings.py changed, reloading.
+INFO 2026-05-26 07:43:57,915 autoreload 5562 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:44:06,419 log 5562 6158102528 "GET /api-auth/login/?next=/api/orders/ HTTP/1.1" 200 2712
+INFO 2026-05-26 07:44:12,302 log 5562 6158102528 "POST /api-auth/login/ HTTP/1.1" 302 0
+INFO 2026-05-26 07:44:12,346 log 5562 6158102528 "GET /api/orders/ HTTP/1.1" 200 16808
+INFO 2026-05-26 07:44:12,372 log 5562 6158102528 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+INFO 2026-05-26 07:45:26,239 autoreload 5562 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:45:26,589 autoreload 5596 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:45:35,993 autoreload 5596 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:45:36,342 autoreload 5607 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:45:46,714 autoreload 5607 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:45:47,060 autoreload 5615 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:46:06,723 autoreload 5615 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:46:07,067 autoreload 5627 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:49:13,973 autoreload 5627 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:49:14,422 autoreload 5679 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:51:26,424 autoreload 5679 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:51:26,810 autoreload 5720 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:51:28,967 autoreload 5720 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:51:29,291 autoreload 5727 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:51:45,813 autoreload 5727 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:51:46,230 autoreload 5759 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:52:57,056 autoreload 5759 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:52:57,380 autoreload 5793 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:53:06,748 autoreload 5793 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:53:07,048 autoreload 5808 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:53:12,320 autoreload 5808 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/views.py changed, reloading.
+INFO 2026-05-26 07:53:12,688 autoreload 5813 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:54:49,857 autoreload 5813 8483643008 /Users/macbook/Desktop/Bist_Bot/users/urls.py changed, reloading.
+INFO 2026-05-26 07:54:50,304 autoreload 5855 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:56:05,529 autoreload 5855 8483643008 /Users/macbook/Desktop/Bist_Bot/users/urls.py changed, reloading.
+INFO 2026-05-26 07:56:05,894 autoreload 5917 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:56:20,428 autoreload 5917 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/urls.py changed, reloading.
+INFO 2026-05-26 07:56:20,753 autoreload 5930 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:56:34,281 autoreload 5930 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/urls.py changed, reloading.
+INFO 2026-05-26 07:56:34,609 autoreload 5937 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:57:01,512 autoreload 5937 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/urls.py changed, reloading.
+INFO 2026-05-26 07:57:01,839 autoreload 5947 8483643008 Watching for file changes with StatReloader
+WARNING 2026-05-26 07:57:10,536 log 5947 6204059648 Not Found: /api/orders/1/
+WARNING 2026-05-26 07:57:10,536 log 5947 6204059648 "GET /api/orders/1/ HTTP/1.1" 404 16298
+INFO 2026-05-26 07:58:37,092 autoreload 5947 8483643008 /Users/macbook/Desktop/Bist_Bot/users/views.py changed, reloading.
+INFO 2026-05-26 07:58:37,462 autoreload 5976 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:58:42,735 autoreload 5976 8483643008 /Users/macbook/Desktop/Bist_Bot/users/views.py changed, reloading.
+INFO 2026-05-26 07:58:43,051 autoreload 5982 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:58:48,307 autoreload 5982 8483643008 /Users/macbook/Desktop/Bist_Bot/users/views.py changed, reloading.
+INFO 2026-05-26 07:58:48,626 autoreload 5985 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:59:08,267 autoreload 5985 8483643008 /Users/macbook/Desktop/Bist_Bot/users/views.py changed, reloading.
+INFO 2026-05-26 07:59:08,569 autoreload 6005 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:59:23,145 autoreload 6005 8483643008 /Users/macbook/Desktop/Bist_Bot/users/views.py changed, reloading.
+INFO 2026-05-26 07:59:23,452 autoreload 6016 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 07:59:29,736 autoreload 6016 8483643008 /Users/macbook/Desktop/Bist_Bot/users/views.py changed, reloading.
+INFO 2026-05-26 07:59:30,053 autoreload 6024 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 10:18:15,291 autoreload 8100 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 10:18:49,553 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:24:08,193 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:26:11,265 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:29:08,142 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:31:34,162 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:34:43,735 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:37:15,915 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:38:41,295 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:38:58,637 log 8100 6128431104 "POST /api/orders/ HTTP/1.1" 201 119
+INFO 2026-05-26 10:40:54,935 log 8100 6128431104 "GET /api/orders/ HTTP/1.1" 200 16841
+INFO 2026-05-26 10:40:54,962 log 8100 6145257472 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,962 log 8100 6162083840 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,962 log 8100 6128431104 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,963 log 8100 6178910208 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,963 log 8100 6195736576 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,963 log 8100 6212562944 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,964 log 8100 6145257472 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,965 log 8100 6162083840 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,965 log 8100 6195736576 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,965 log 8100 6178910208 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,966 log 8100 6128431104 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,968 log 8100 6178910208 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2026-05-26 10:40:54,979 log 8100 6178910208 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+INFO 2026-05-26 10:53:34,302 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:54:09,163 log 8100 6128431104 "POST /api/orders/ HTTP/1.1" 201 112
+INFO 2026-05-26 10:56:23,798 log 8100 6128431104 "POST /api/orders/ HTTP/1.1" 201 82
+INFO 2026-05-26 10:57:33,018 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 10:57:49,744 log 8100 6128431104 "POST /api/orders/ HTTP/1.1" 201 86
+INFO 2026-05-26 11:07:14,510 log 8100 6128431104 "POST /api/users/login/ HTTP/1.1" 200 83
+WARNING 2026-05-26 11:07:30,802 log 8100 6128431104 Not Found: /api/users/profile/
+WARNING 2026-05-26 11:07:30,803 log 8100 6128431104 "GET /api/users/profile/ HTTP/1.1" 404 2810
+INFO 2026-05-26 11:09:58,548 autoreload 8100 8483643008 /Users/macbook/Desktop/Bist_Bot/users/views.py changed, reloading.
+INFO 2026-05-26 11:09:59,285 autoreload 9498 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 11:10:25,204 autoreload 9498 8483643008 /Users/macbook/Desktop/Bist_Bot/users/urls.py changed, reloading.
+INFO 2026-05-26 11:10:25,581 autoreload 9526 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 11:11:27,530 autoreload 9526 8483643008 /Users/macbook/Desktop/Bist_Bot/private_orders_bot/urls.py changed, reloading.
+INFO 2026-05-26 11:11:27,914 autoreload 9550 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 11:11:47,141 log 9550 6161281024 "GET /api/users/profile/ HTTP/1.1" 200 37
+INFO 2026-05-26 11:14:29,680 log 9550 6161281024 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 11:14:55,255 log 9550 6161281024 "GET /api/users/profile/ HTTP/1.1" 200 37
+INFO 2026-05-26 11:18:02,739 log 9550 6161281024 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 11:29:00,378 autoreload 9550 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/urls.py changed, reloading.
+INFO 2026-05-26 11:29:00,818 autoreload 9993 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 11:29:38,380 log 9993 6158315520 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 11:33:18,781 log 9993 6158315520 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 11:33:22,798 log 9993 6158315520 "GET /api/orders/ HTTP/1.1" 200 555
+INFO 2026-05-26 11:33:38,039 log 9993 6158315520 "DELETE /api/orders/5/ HTTP/1.1" 204 0
+INFO 2026-05-26 11:33:41,238 log 9993 6158315520 "GET /api/orders/ HTTP/1.1" 200 472
+INFO 2026-05-26 11:45:21,580 autoreload 9993 8483643008 /Users/macbook/Desktop/Bist_Bot/users/models.py changed, reloading.
+INFO 2026-05-26 11:45:21,992 autoreload 10443 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 11:55:28,712 autoreload 10808 8483643008 Watching for file changes with StatReloader
+WARNING 2026-05-26 11:56:08,864 log 10808 6134018048 Not Found: /
+WARNING 2026-05-26 11:56:08,865 log 10808 6134018048 "GET / HTTP/1.1" 404 2781
+INFO 2026-05-26 11:56:12,955 log 10808 6134018048 "GET /admin/ HTTP/1.1" 200 9023
+INFO 2026-05-26 11:56:12,970 log 10808 6134018048 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:12,972 log 10808 6150844416 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:12,972 log 10808 6167670784 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:12,973 log 10808 6184497152 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:12,974 log 10808 6218149888 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:12,975 log 10808 6201323520 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:12,978 log 10808 6201323520 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:12,985 log 10808 6201323520 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:12,986 log 10808 6218149888 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,750 log 10808 6218149888 "GET /admin/users/user/ HTTP/1.1" 200 14455
+INFO 2026-05-26 11:56:14,762 log 10808 6218149888 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,768 log 10808 6134018048 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,769 log 10808 6167670784 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,769 log 10808 6150844416 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,771 log 10808 6167670784 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,768 log 10808 6184497152 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,771 log 10808 6134018048 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,769 log 10808 6218149888 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,773 log 10808 6184497152 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,775 log 10808 6167670784 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,775 log 10808 6218149888 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,777 log 10808 6218149888 "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,779 log 10808 6218149888 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,780 log 10808 6201323520 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 11:56:14,799 log 10808 6201323520 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,799 log 10808 6218149888 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:14,800 log 10808 6167670784 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:22,037 log 10808 6218149888 "GET /admin/users/user/2/change/ HTTP/1.1" 200 26725
+INFO 2026-05-26 11:56:22,063 log 10808 6201323520 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:22,073 log 10808 6201323520 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:22,074 log 10808 6167670784 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9159
+INFO 2026-05-26 11:56:22,075 log 10808 6134018048 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2026-05-26 11:56:22,076 log 10808 6201323520 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:22,076 log 10808 6184497152 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19698
+INFO 2026-05-26 11:56:22,077 log 10808 6150844416 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 16428
+INFO 2026-05-26 11:56:22,077 log 10808 6218149888 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 11:56:22,078 log 10808 6150844416 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-05-26 11:56:22,103 log 10808 6150844416 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 2387
+INFO 2026-05-26 11:56:22,103 log 10808 6201323520 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 805
+INFO 2026-05-26 11:56:22,103 log 10808 6218149888 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1112
+INFO 2026-05-26 11:57:05,442 log 10808 6234976256 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 12:00:01,498 autoreload 10808 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/admin.py changed, reloading.
+INFO 2026-05-26 12:00:01,849 autoreload 10915 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:00:31,941 autoreload 10915 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/admin.py changed, reloading.
+INFO 2026-05-26 12:00:32,290 autoreload 10945 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:00:52,921 autoreload 10945 8483643008 /Users/macbook/Desktop/Bist_Bot/users/admin.py changed, reloading.
+INFO 2026-05-26 12:00:53,246 autoreload 10958 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:00:53,661 log 10958 6166228992 "GET /admin/users/user/2/change/ HTTP/1.1" 200 26725
+INFO 2026-05-26 12:00:53,693 log 10958 6166228992 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 12:01:53,302 autoreload 10958 8483643008 /Users/macbook/Desktop/Bist_Bot/users/admin.py changed, reloading.
+INFO 2026-05-26 12:01:53,670 autoreload 10987 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:02:04,131 autoreload 10987 8483643008 /Users/macbook/Desktop/Bist_Bot/users/admin.py changed, reloading.
+INFO 2026-05-26 12:02:04,462 autoreload 10992 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:02:28,009 autoreload 10992 8483643008 /Users/macbook/Desktop/Bist_Bot/users/admin.py changed, reloading.
+INFO 2026-05-26 12:02:28,327 autoreload 11001 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:04:04,036 autoreload 11001 8483643008 /Users/macbook/Desktop/Bist_Bot/users/admin.py changed, reloading.
+INFO 2026-05-26 12:04:04,384 autoreload 11029 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:04:05,847 log 11029 6137884672 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27438
+INFO 2026-05-26 12:04:05,871 log 11029 6137884672 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 12:06:11,276 autoreload 11029 8483643008 /Users/macbook/Desktop/Bist_Bot/users/admin.py changed, reloading.
+INFO 2026-05-26 12:06:11,637 autoreload 11081 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:06:18,448 log 11081 6123401216 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27438
+INFO 2026-05-26 12:06:18,484 log 11081 6123401216 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 12:06:23,631 log 11081 6123401216 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 12:06:23,687 log 11081 6123401216 "GET /admin/users/user/ HTTP/1.1" 200 15140
+INFO 2026-05-26 12:06:23,741 log 11081 6123401216 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 12:06:23,756 log 11081 6123401216 "GET /static/admin/img/icon-yes-dark.svg HTTP/1.1" 304 0
+INFO 2026-05-26 12:06:44,473 log 11081 6157053952 "POST /api/users/login/ HTTP/1.1" 200 83
+INFO 2026-05-26 12:08:16,452 autoreload 11081 8483643008 /Users/macbook/Desktop/Bist_Bot/users/views.py changed, reloading.
+INFO 2026-05-26 12:08:16,830 autoreload 11138 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:08:47,248 log 11138 6169260032 "POST /api/users/login/ HTTP/1.1" 200 98
+INFO 2026-05-26 12:08:51,574 log 11138 6169260032 "GET /api/orders/ HTTP/1.1" 200 559
+INFO 2026-05-26 12:12:19,604 autoreload 11138 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/serializers.py changed, reloading.
+INFO 2026-05-26 12:12:19,989 autoreload 11262 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:12:28,335 autoreload 11262 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/serializers.py changed, reloading.
+INFO 2026-05-26 12:12:28,660 autoreload 11266 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 12:12:37,142 log 11266 6123892736 "GET /api/orders/ HTTP/1.1" 200 780
+INFO 2026-05-26 12:22:07,949 log 11266 6123892736 "POST /api/users/login/ HTTP/1.1" 200 98
+INFO 2026-05-26 12:22:11,354 log 11266 6123892736 "GET /api/orders/ HTTP/1.1" 200 780
+INFO 2026-05-26 12:28:46,939 log 11266 6123892736 "POST /api/users/login/ HTTP/1.1" 200 98
+INFO 2026-05-26 12:28:53,578 log 11266 6123892736 "GET /api/orders/ HTTP/1.1" 200 780
+INFO 2026-05-26 12:28:58,147 log 11266 6123892736 "GET /api/orders/ HTTP/1.1" 200 780
+INFO 2026-05-26 12:29:15,008 log 11266 6123892736 "GET /api/orders/ HTTP/1.1" 200 780
