@@ -1,0 +1,2153 @@
+2026-05-26 16:15:03,642 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:15:03,642 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:15:03,882 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:15:19,970 - __main__ - INFO - User 905349442: START
+2026-05-26 16:15:20,166 - aiogram.event - INFO - Update id=263863927 is handled. Duration 197 ms by bot id=8789903383
+2026-05-26 16:15:25,546 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:15:25,617 - aiogram.event - INFO - Update id=263863928 is handled. Duration 72 ms by bot id=8789903383
+2026-05-26 16:15:31,954 - aiogram.event - INFO - Update id=263863929 is handled. Duration 99 ms by bot id=8789903383
+2026-05-26 16:15:34,433 - __main__ - ERROR - Ошибка при входе: Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]
+2026-05-26 16:15:34,434 - __main__ - WARNING - User 905349442: LOGIN_FAILED for admin
+2026-05-26 16:15:34,675 - aiogram.event - INFO - Update id=263863930 is handled. Duration 247 ms by bot id=8789903383
+2026-05-26 16:15:50,430 - aiogram.event - INFO - Update id=263863931 is handled. Duration 136 ms by bot id=8789903383
+2026-05-26 16:15:53,198 - __main__ - ERROR - Ошибка при входе: Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]
+2026-05-26 16:15:53,199 - __main__ - WARNING - User 905349442: LOGIN_FAILED for admin
+2026-05-26 16:15:53,361 - aiogram.event - INFO - Update id=263863932 is handled. Duration 167 ms by bot id=8789903383
+2026-05-26 16:18:27,396 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:18:27,400 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:18:27,400 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:18:32,144 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:18:32,145 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:18:32,307 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:18:43,517 - __main__ - INFO - User 905349442: START
+2026-05-26 16:18:43,710 - aiogram.event - INFO - Update id=263863933 is handled. Duration 194 ms by bot id=8789903383
+2026-05-26 16:18:49,145 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:18:49,214 - aiogram.event - INFO - Update id=263863934 is handled. Duration 69 ms by bot id=8789903383
+2026-05-26 16:18:54,375 - aiogram.event - INFO - Update id=263863935 is handled. Duration 70 ms by bot id=8789903383
+2026-05-26 16:18:56,321 - __main__ - ERROR - Ошибка при входе: Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]
+2026-05-26 16:18:56,321 - __main__ - WARNING - User 905349442: LOGIN_FAILED for admin
+2026-05-26 16:18:56,399 - aiogram.event - INFO - Update id=263863936 is handled. Duration 83 ms by bot id=8789903383
+2026-05-26 16:21:23,407 - aiogram.event - INFO - Update id=263863937 is handled. Duration 115 ms by bot id=8789903383
+2026-05-26 16:24:35,945 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:24:35,962 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:24:35,963 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:24:39,312 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:24:39,312 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:24:39,485 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:24:46,449 - __main__ - INFO - User 905349442: START
+2026-05-26 16:24:46,636 - aiogram.event - INFO - Update id=263863938 is handled. Duration 188 ms by bot id=8789903383
+2026-05-26 16:24:50,003 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:24:50,076 - aiogram.event - INFO - Update id=263863939 is handled. Duration 76 ms by bot id=8789903383
+2026-05-26 16:24:54,414 - aiogram.event - INFO - Update id=263863940 is handled. Duration 68 ms by bot id=8789903383
+2026-05-26 16:24:58,015 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 16:24:58,084 - aiogram.event - INFO - Update id=263863941 is handled. Duration 381 ms by bot id=8789903383
+2026-05-26 16:25:03,583 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:25:03,681 - aiogram.event - INFO - Update id=263863942 is handled. Duration 142 ms by bot id=8789903383
+2026-05-26 16:25:06,075 - __main__ - INFO - Admin 905349442: FILTER_BY_USER (users=2)
+2026-05-26 16:25:06,171 - aiogram.event - INFO - Update id=263863943 is handled. Duration 126 ms by bot id=8789903383
+2026-05-26 16:25:08,101 - __main__ - INFO - Admin 905349442: NO_SORT
+2026-05-26 16:25:08,173 - aiogram.event - INFO - Update id=263863944 is handled. Duration 75 ms by bot id=8789903383
+2026-05-26 16:25:13,992 - __main__ - INFO - Admin 905349442: VIEW_STATS (total=5)
+2026-05-26 16:25:14,098 - aiogram.event - INFO - Update id=263863945 is handled. Duration 143 ms by bot id=8789903383
+2026-05-26 16:29:29,632 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:29:29,639 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:29:29,639 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:29:46,315 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:29:46,315 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:29:46,478 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:29:57,524 - __main__ - INFO - User 905349442: START
+2026-05-26 16:29:57,751 - aiogram.event - INFO - Update id=263863946 is handled. Duration 228 ms by bot id=8789903383
+2026-05-26 16:30:07,685 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:30:07,843 - aiogram.event - INFO - Update id=263863947 is handled. Duration 158 ms by bot id=8789903383
+2026-05-26 16:30:30,543 - aiogram.event - INFO - Update id=263863948 is handled. Duration 83 ms by bot id=8789903383
+2026-05-26 16:30:33,597 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 16:30:33,691 - aiogram.event - INFO - Update id=263863949 is handled. Duration 446 ms by bot id=8789903383
+2026-05-26 16:30:39,771 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:30:39,879 - aiogram.event - INFO - Update id=263863950 is handled. Duration 149 ms by bot id=8789903383
+2026-05-26 16:32:23,560 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:32:23,677 - aiogram.event - INFO - Update id=263863951 is handled. Duration 182 ms by bot id=8789903383
+2026-05-26 16:33:09,778 - __main__ - INFO - Admin 905349442: FILTER_BY_USER (users=2)
+2026-05-26 16:33:09,856 - aiogram.event - INFO - Update id=263863952 is handled. Duration 137 ms by bot id=8789903383
+2026-05-26 16:34:02,915 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:34:02,923 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:34:02,923 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:34:06,170 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:34:06,170 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:34:06,342 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:34:14,072 - __main__ - INFO - User 905349442: START
+2026-05-26 16:34:14,262 - aiogram.event - INFO - Update id=263863953 is handled. Duration 189 ms by bot id=8789903383
+2026-05-26 16:34:23,063 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:34:23,134 - aiogram.event - INFO - Update id=263863954 is handled. Duration 73 ms by bot id=8789903383
+2026-05-26 16:34:25,743 - aiogram.event - INFO - Update id=263863955 is handled. Duration 74 ms by bot id=8789903383
+2026-05-26 16:34:29,072 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 16:34:29,187 - aiogram.event - INFO - Update id=263863956 is handled. Duration 444 ms by bot id=8789903383
+2026-05-26 16:34:33,360 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:34:33,841 - aiogram.event - INFO - Update id=263863957 is handled. Duration 520 ms by bot id=8789903383
+2026-05-26 16:34:46,056 - __main__ - ERROR - Admin 905349442: ORDER_STATUS_ERROR (id=6, status=COMPLETED)
+2026-05-26 16:34:46,118 - aiogram.event - INFO - Update id=263863958 is handled. Duration 106 ms by bot id=8789903383
+2026-05-26 16:37:45,491 - __main__ - ERROR - Admin 905349442: ORDER_STATUS_ERROR (id=6, status=COMPLETED)
+2026-05-26 16:37:45,560 - aiogram.event - INFO - Update id=263863959 is handled. Duration 210 ms by bot id=8789903383
+2026-05-26 16:40:42,337 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:40:42,343 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:40:42,344 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:40:45,665 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:40:45,665 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:40:45,836 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:41:03,228 - __main__ - INFO - User 905349442: START
+2026-05-26 16:41:03,582 - aiogram.event - INFO - Update id=263863960 is handled. Duration 355 ms by bot id=8789903383
+2026-05-26 16:41:07,500 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:41:07,642 - aiogram.event - INFO - Update id=263863961 is handled. Duration 143 ms by bot id=8789903383
+2026-05-26 16:41:10,539 - aiogram.event - INFO - Update id=263863962 is handled. Duration 84 ms by bot id=8789903383
+2026-05-26 16:41:14,251 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 16:41:14,319 - aiogram.event - INFO - Update id=263863963 is handled. Duration 386 ms by bot id=8789903383
+2026-05-26 16:41:18,868 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:41:19,363 - aiogram.event - INFO - Update id=263863964 is handled. Duration 542 ms by bot id=8789903383
+2026-05-26 16:41:22,118 - aiogram.event - INFO - Update id=263863965 is not handled. Duration 1 ms by bot id=8789903383
+2026-05-26 16:41:22,118 - aiogram.event - ERROR - Cause exception while process update id=263863965 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:23,385 - aiogram.event - INFO - Update id=263863966 is not handled. Duration 1 ms by bot id=8789903383
+2026-05-26 16:41:23,386 - aiogram.event - ERROR - Cause exception while process update id=263863966 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:24,116 - aiogram.event - INFO - Update id=263863967 is not handled. Duration 1 ms by bot id=8789903383
+2026-05-26 16:41:24,116 - aiogram.event - ERROR - Cause exception while process update id=263863967 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:24,264 - aiogram.event - INFO - Update id=263863968 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:41:24,264 - aiogram.event - ERROR - Cause exception while process update id=263863968 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:31,805 - aiogram.event - INFO - Update id=263863969 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:41:31,806 - aiogram.event - ERROR - Cause exception while process update id=263863969 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:32,683 - aiogram.event - INFO - Update id=263863970 is not handled. Duration 1 ms by bot id=8789903383
+2026-05-26 16:41:32,684 - aiogram.event - ERROR - Cause exception while process update id=263863970 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:33,097 - aiogram.event - INFO - Update id=263863971 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:41:33,097 - aiogram.event - ERROR - Cause exception while process update id=263863971 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:37,219 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=6, status=NEW)
+2026-05-26 16:41:37,381 - aiogram.event - INFO - Update id=263863972 is not handled. Duration 216 ms by bot id=8789903383
+2026-05-26 16:41:37,381 - aiogram.event - ERROR - Cause exception while process update id=263863972 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 802, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:41:39,655 - aiogram.event - INFO - Update id=263863973 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:41:39,655 - aiogram.event - ERROR - Cause exception while process update id=263863973 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:41,066 - aiogram.event - INFO - Update id=263863974 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:41:41,066 - aiogram.event - ERROR - Cause exception while process update id=263863974 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:42,293 - aiogram.event - INFO - Update id=263863975 is not handled. Duration 1 ms by bot id=8789903383
+2026-05-26 16:41:42,294 - aiogram.event - ERROR - Cause exception while process update id=263863975 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:43,258 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=6, status=DONE)
+2026-05-26 16:41:43,383 - aiogram.event - INFO - Update id=263863976 is not handled. Duration 150 ms by bot id=8789903383
+2026-05-26 16:41:43,383 - aiogram.event - ERROR - Cause exception while process update id=263863976 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 802, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:41:45,032 - aiogram.event - INFO - Update id=263863977 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:41:45,032 - aiogram.event - ERROR - Cause exception while process update id=263863977 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:41:50,476 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:41:50,983 - aiogram.event - INFO - Update id=263863978 is handled. Duration 549 ms by bot id=8789903383
+2026-05-26 16:41:57,845 - aiogram.event - INFO - Update id=263863979 is not handled. Duration 1 ms by bot id=8789903383
+2026-05-26 16:41:57,845 - aiogram.event - ERROR - Cause exception while process update id=263863979 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 793, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:42:18,898 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=4, status=DONE)
+2026-05-26 16:42:19,021 - aiogram.event - INFO - Update id=263863980 is not handled. Duration 182 ms by bot id=8789903383
+2026-05-26 16:42:19,021 - aiogram.event - ERROR - Cause exception while process update id=263863980 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 802, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:42:24,300 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:42:24,773 - aiogram.event - INFO - Update id=263863981 is handled. Duration 513 ms by bot id=8789903383
+2026-05-26 16:47:43,298 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:47:43,310 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:47:43,310 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:47:48,697 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:47:48,697 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:47:48,870 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:48:01,526 - __main__ - INFO - User 905349442: START
+2026-05-26 16:48:01,778 - aiogram.event - INFO - Update id=263863982 is handled. Duration 254 ms by bot id=8789903383
+2026-05-26 16:48:05,511 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:48:05,610 - aiogram.event - INFO - Update id=263863983 is handled. Duration 100 ms by bot id=8789903383
+2026-05-26 16:48:09,391 - aiogram.event - INFO - Update id=263863984 is handled. Duration 103 ms by bot id=8789903383
+2026-05-26 16:48:12,593 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 16:48:12,701 - aiogram.event - INFO - Update id=263863985 is handled. Duration 467 ms by bot id=8789903383
+2026-05-26 16:48:18,035 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:48:18,517 - aiogram.event - INFO - Update id=263863986 is handled. Duration 527 ms by bot id=8789903383
+2026-05-26 16:48:24,092 - aiogram.event - INFO - Update id=263863987 is not handled. Duration 1 ms by bot id=8789903383
+2026-05-26 16:48:24,092 - aiogram.event - ERROR - Cause exception while process update id=263863987 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 799, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:48:25,306 - aiogram.event - INFO - Update id=263863988 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:48:25,307 - aiogram.event - ERROR - Cause exception while process update id=263863988 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 799, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:48:30,390 - aiogram.event - INFO - Update id=263863989 is not handled. Duration 2 ms by bot id=8789903383
+2026-05-26 16:48:30,391 - aiogram.event - ERROR - Cause exception while process update id=263863989 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 799, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:48:31,640 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=4, status=CANCELED)
+2026-05-26 16:48:31,778 - aiogram.event - INFO - Update id=263863990 is not handled. Duration 179 ms by bot id=8789903383
+2026-05-26 16:48:31,779 - aiogram.event - ERROR - Cause exception while process update id=263863990 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 808, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:48:33,202 - aiogram.event - INFO - Update id=263863991 is not handled. Duration 1 ms by bot id=8789903383
+2026-05-26 16:48:33,202 - aiogram.event - ERROR - Cause exception while process update id=263863991 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 799, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:48:33,823 - aiogram.event - INFO - Update id=263863992 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:48:33,824 - aiogram.event - ERROR - Cause exception while process update id=263863992 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 799, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:48:34,015 - aiogram.event - INFO - Update id=263863993 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-26 16:48:34,016 - aiogram.event - ERROR - Cause exception while process update id=263863993 by bot id=8789903383
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 799, in change_order_status
+    order_id = int(parts[2])
+ValueError: invalid literal for int() with base 10: 'PROGRESS'
+2026-05-26 16:48:37,369 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=4, status=CANCELED)
+2026-05-26 16:48:37,433 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=4, status=CANCELED)
+2026-05-26 16:48:37,497 - aiogram.event - INFO - Update id=263863994 is not handled. Duration 185 ms by bot id=8789903383
+2026-05-26 16:48:37,497 - aiogram.event - ERROR - Cause exception while process update id=263863994 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 808, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:48:37,535 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=4, status=CANCELED)
+2026-05-26 16:48:37,640 - aiogram.event - INFO - Update id=263863995 is not handled. Duration 224 ms by bot id=8789903383
+2026-05-26 16:48:37,640 - aiogram.event - ERROR - Cause exception while process update id=263863995 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 808, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:48:37,651 - aiogram.event - INFO - Update id=263863996 is not handled. Duration 131 ms by bot id=8789903383
+2026-05-26 16:48:37,651 - aiogram.event - ERROR - Cause exception while process update id=263863996 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 808, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:50:57,317 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:50:57,329 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:50:57,329 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:51:00,774 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:51:00,775 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:51:00,933 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:51:09,351 - __main__ - INFO - User 905349442: START
+2026-05-26 16:51:09,539 - aiogram.event - INFO - Update id=263863997 is handled. Duration 194 ms by bot id=8789903383
+2026-05-26 16:51:13,932 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:51:14,012 - aiogram.event - INFO - Update id=263863998 is handled. Duration 80 ms by bot id=8789903383
+2026-05-26 16:51:17,672 - aiogram.event - INFO - Update id=263863999 is handled. Duration 73 ms by bot id=8789903383
+2026-05-26 16:51:20,083 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 16:51:20,155 - aiogram.event - INFO - Update id=263864000 is handled. Duration 386 ms by bot id=8789903383
+2026-05-26 16:51:25,579 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:51:26,021 - aiogram.event - INFO - Update id=263864001 is handled. Duration 483 ms by bot id=8789903383
+2026-05-26 16:51:28,386 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=6, status=IN_PROGRESS)
+2026-05-26 16:51:28,610 - aiogram.event - INFO - Update id=263864002 is not handled. Duration 271 ms by bot id=8789903383
+2026-05-26 16:51:28,611 - aiogram.event - ERROR - Cause exception while process update id=263864002 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 820, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:51:30,843 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=6, status=NEW)
+2026-05-26 16:51:30,957 - aiogram.event - INFO - Update id=263864003 is not handled. Duration 152 ms by bot id=8789903383
+2026-05-26 16:51:30,957 - aiogram.event - ERROR - Cause exception while process update id=263864003 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 820, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:51:32,284 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=6, status=DONE)
+2026-05-26 16:51:32,472 - aiogram.event - INFO - Update id=263864004 is not handled. Duration 218 ms by bot id=8789903383
+2026-05-26 16:51:32,472 - aiogram.event - ERROR - Cause exception while process update id=263864004 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 820, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:51:33,719 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=6, status=CANCELED)
+2026-05-26 16:51:33,992 - aiogram.event - INFO - Update id=263864005 is not handled. Duration 306 ms by bot id=8789903383
+2026-05-26 16:51:33,993 - aiogram.event - ERROR - Cause exception while process update id=263864005 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 820, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:51:35,157 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=6, status=IN_PROGRESS)
+2026-05-26 16:51:35,270 - aiogram.event - INFO - Update id=263864006 is not handled. Duration 154 ms by bot id=8789903383
+2026-05-26 16:51:35,270 - aiogram.event - ERROR - Cause exception while process update id=263864006 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 820, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:51:39,760 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=4, status=IN_PROGRESS)
+2026-05-26 16:51:39,879 - aiogram.event - INFO - Update id=263864007 is not handled. Duration 153 ms by bot id=8789903383
+2026-05-26 16:51:39,879 - aiogram.event - ERROR - Cause exception while process update id=263864007 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 820, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 16:51:43,484 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:51:43,967 - aiogram.event - INFO - Update id=263864008 is handled. Duration 518 ms by bot id=8789903383
+2026-05-26 16:54:32,314 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:54:32,327 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:54:32,328 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:54:36,030 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:54:36,030 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:54:36,185 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:54:48,475 - __main__ - INFO - User 905349442: START
+2026-05-26 16:54:48,667 - aiogram.event - INFO - Update id=263864009 is handled. Duration 194 ms by bot id=8789903383
+2026-05-26 16:54:52,566 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:54:52,676 - aiogram.event - INFO - Update id=263864010 is handled. Duration 111 ms by bot id=8789903383
+2026-05-26 16:54:55,914 - aiogram.event - INFO - Update id=263864011 is handled. Duration 81 ms by bot id=8789903383
+2026-05-26 16:54:59,321 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 16:54:59,430 - aiogram.event - INFO - Update id=263864012 is handled. Duration 434 ms by bot id=8789903383
+2026-05-26 16:55:05,119 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:55:05,635 - aiogram.event - INFO - Update id=263864013 is handled. Duration 557 ms by bot id=8789903383
+2026-05-26 16:57:34,573 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 16:57:34,581 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:57:34,581 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 16:57:37,895 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 16:57:37,895 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 16:57:38,321 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 16:57:43,235 - __main__ - INFO - User 905349442: START
+2026-05-26 16:57:43,441 - aiogram.event - INFO - Update id=263864014 is handled. Duration 206 ms by bot id=8789903383
+2026-05-26 16:57:46,580 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 16:57:46,670 - aiogram.event - INFO - Update id=263864015 is handled. Duration 97 ms by bot id=8789903383
+2026-05-26 16:57:49,910 - aiogram.event - INFO - Update id=263864016 is handled. Duration 93 ms by bot id=8789903383
+2026-05-26 16:57:53,192 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 16:57:53,268 - aiogram.event - INFO - Update id=263864017 is handled. Duration 403 ms by bot id=8789903383
+2026-05-26 16:57:58,858 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 16:57:59,359 - aiogram.event - INFO - Update id=263864018 is handled. Duration 546 ms by bot id=8789903383
+2026-05-26 16:58:15,885 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=NEW, count=3)
+2026-05-26 16:58:16,083 - aiogram.event - INFO - Update id=263864019 is handled. Duration 240 ms by bot id=8789903383
+2026-05-26 16:58:21,029 - aiogram.event - INFO - Update id=263864020 is handled. Duration 343 ms by bot id=8789903383
+2026-05-26 16:58:23,671 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=IN_PROGRESS, count=2)
+2026-05-26 16:58:23,825 - aiogram.event - INFO - Update id=263864021 is handled. Duration 185 ms by bot id=8789903383
+2026-05-26 16:58:31,077 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=ALL, count=5)
+2026-05-26 16:58:31,238 - aiogram.event - INFO - Update id=263864022 is handled. Duration 207 ms by bot id=8789903383
+2026-05-26 17:08:10,341 - __main__ - INFO - User 905349442: START
+2026-05-26 17:08:10,421 - aiogram.event - INFO - Update id=263864023 is handled. Duration 81 ms by bot id=8789903383
+2026-05-26 17:08:14,365 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 17:08:14,445 - aiogram.event - INFO - Update id=263864024 is handled. Duration 80 ms by bot id=8789903383
+2026-05-26 17:08:23,175 - aiogram.event - INFO - Update id=263864025 is handled. Duration 74 ms by bot id=8789903383
+2026-05-26 17:08:26,340 - __main__ - WARNING - User 905349442: LOGIN_FAILED for anatoliilaponov
+2026-05-26 17:08:26,429 - aiogram.event - INFO - Update id=263864026 is handled. Duration 444 ms by bot id=8789903383
+2026-05-26 17:08:50,268 - aiogram.event - INFO - Update id=263864027 is handled. Duration 88 ms by bot id=8789903383
+2026-05-26 17:09:19,323 - __main__ - WARNING - User 905349442: LOGIN_FAILED for anatoliilaponov
+2026-05-26 17:09:19,407 - aiogram.event - INFO - Update id=263864028 is handled. Duration 417 ms by bot id=8789903383
+2026-05-26 17:11:25,698 - aiogram.event - INFO - Update id=263864029 is handled. Duration 85 ms by bot id=8789903383
+2026-05-26 17:11:28,935 - __main__ - WARNING - User 905349442: LOGIN_FAILED for anatoliilaponov
+2026-05-26 17:11:29,040 - aiogram.event - INFO - Update id=263864030 is handled. Duration 423 ms by bot id=8789903383
+2026-05-26 17:15:06,775 - __main__ - INFO - User 905349442: START
+2026-05-26 17:15:06,867 - aiogram.event - INFO - Update id=263864031 is handled. Duration 94 ms by bot id=8789903383
+2026-05-26 17:15:10,932 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 17:15:11,039 - aiogram.event - INFO - Update id=263864032 is handled. Duration 108 ms by bot id=8789903383
+2026-05-26 17:15:20,137 - aiogram.event - INFO - Update id=263864033 is handled. Duration 77 ms by bot id=8789903383
+2026-05-26 17:15:23,572 - __main__ - WARNING - User 905349442: LOGIN_FAILED for anatoliilaponov
+2026-05-26 17:15:23,662 - aiogram.event - INFO - Update id=263864034 is handled. Duration 433 ms by bot id=8789903383
+2026-05-26 17:17:54,345 - aiogram.event - INFO - Update id=263864035 is handled. Duration 81 ms by bot id=8789903383
+2026-05-26 17:18:00,366 - __main__ - WARNING - User 905349442: LOGIN_FAILED for anatoliilaponov
+2026-05-26 17:18:00,439 - aiogram.event - INFO - Update id=263864036 is handled. Duration 434 ms by bot id=8789903383
+2026-05-26 17:59:04,707 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-05-26 17:59:04,709 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8789903383)
+2026-05-26 17:59:15,933 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8789903383)
+2026-05-26 18:00:10,949 - aiogram.event - INFO - Update id=263864037 is handled. Duration 221 ms by bot id=8789903383
+2026-05-26 18:00:14,076 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 18:00:14,194 - aiogram.event - INFO - Update id=263864038 is handled. Duration 439 ms by bot id=8789903383
+2026-05-26 18:00:18,428 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 18:00:19,049 - aiogram.event - INFO - Update id=263864039 is handled. Duration 677 ms by bot id=8789903383
+2026-05-26 18:00:30,408 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=4, status=DONE)
+2026-05-26 18:00:30,584 - aiogram.event - INFO - Update id=263864040 is not handled. Duration 223 ms by bot id=8789903383
+2026-05-26 18:00:30,584 - aiogram.event - ERROR - Cause exception while process update id=263864040 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 878, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 18:00:38,489 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=ALL, count=5)
+2026-05-26 18:00:38,677 - aiogram.event - INFO - Update id=263864041 is handled. Duration 239 ms by bot id=8789903383
+2026-05-26 18:03:38,177 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=5)
+2026-05-26 18:03:38,749 - aiogram.event - INFO - Update id=263864042 is handled. Duration 648 ms by bot id=8789903383
+2026-05-26 18:03:49,595 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=IN_PROGRESS, count=1)
+2026-05-26 18:03:49,727 - aiogram.event - INFO - Update id=263864043 is handled. Duration 184 ms by bot id=8789903383
+2026-05-26 18:03:53,018 - aiogram.event - INFO - Update id=263864044 is handled. Duration 198 ms by bot id=8789903383
+2026-05-26 18:03:55,633 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=NEW, count=3)
+2026-05-26 18:03:55,770 - aiogram.event - INFO - Update id=263864045 is handled. Duration 184 ms by bot id=8789903383
+2026-05-26 18:04:32,813 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=ALL, count=5)
+2026-05-26 18:04:32,954 - aiogram.event - INFO - Update id=263864046 is handled. Duration 196 ms by bot id=8789903383
+2026-05-26 18:07:28,403 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=DONE, count=1)
+2026-05-26 18:07:28,534 - aiogram.event - INFO - Update id=263864047 is handled. Duration 437 ms by bot id=8789903383
+2026-05-26 18:14:10,900 - __main__ - INFO - User 905349442: START
+2026-05-26 18:14:10,982 - aiogram.event - INFO - Update id=263864048 is handled. Duration 82 ms by bot id=8789903383
+2026-05-26 18:14:17,154 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 18:14:17,233 - aiogram.event - INFO - Update id=263864049 is handled. Duration 80 ms by bot id=8789903383
+2026-05-26 18:14:23,141 - aiogram.event - INFO - Update id=263864050 is handled. Duration 138 ms by bot id=8789903383
+2026-05-26 18:14:28,619 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 18:14:28,697 - aiogram.event - INFO - Update id=263864051 is handled. Duration 421 ms by bot id=8789903383
+2026-05-26 18:14:57,000 - __main__ - INFO - User 905349442: START
+2026-05-26 18:14:57,073 - aiogram.event - INFO - Update id=263864052 is handled. Duration 73 ms by bot id=8789903383
+2026-05-26 18:15:01,521 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 18:15:01,603 - aiogram.event - INFO - Update id=263864053 is handled. Duration 82 ms by bot id=8789903383
+2026-05-26 18:15:05,795 - aiogram.event - INFO - Update id=263864054 is handled. Duration 112 ms by bot id=8789903383
+2026-05-26 18:15:09,279 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=customer)
+2026-05-26 18:15:09,358 - aiogram.event - INFO - Update id=263864055 is handled. Duration 396 ms by bot id=8789903383
+2026-05-26 18:15:34,185 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 18:15:34,256 - aiogram.event - INFO - Update id=263864056 is handled. Duration 103 ms by bot id=8789903383

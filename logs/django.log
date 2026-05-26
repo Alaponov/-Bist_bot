@@ -334,3 +334,651 @@ INFO 2026-05-26 13:34:29,070 log 13672 6159790080 "POST /api/users/login/ HTTP/1
 INFO 2026-05-26 13:34:33,357 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 780
 WARNING 2026-05-26 13:34:46,054 log 13672 6159790080 Bad Request: /api/orders/6/
 WARNING 2026-05-26 13:34:46,055 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 400 51
+WARNING 2026-05-26 13:37:45,487 log 13672 6159790080 Bad Request: /api/orders/6/
+WARNING 2026-05-26 13:37:45,489 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 400 51
+INFO 2026-05-26 13:41:14,251 log 13672 6159790080 "POST /api/users/login/ HTTP/1.1" 200 98
+INFO 2026-05-26 13:41:18,866 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 780
+INFO 2026-05-26 13:41:37,218 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 200 138
+INFO 2026-05-26 13:41:43,257 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 200 139
+INFO 2026-05-26 13:41:50,476 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 781
+INFO 2026-05-26 13:42:18,897 log 13672 6159790080 "PATCH /api/orders/4/ HTTP/1.1" 200 165
+INFO 2026-05-26 13:42:18,898 basehttp 13672 6159790080 - Broken pipe from ('127.0.0.1', 53320)
+INFO 2026-05-26 13:42:24,300 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 782
+INFO 2026-05-26 13:48:12,593 log 13672 6159790080 "POST /api/users/login/ HTTP/1.1" 200 98
+INFO 2026-05-26 13:48:18,034 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 782
+INFO 2026-05-26 13:48:31,640 log 13672 6159790080 "PATCH /api/orders/4/ HTTP/1.1" 200 169
+INFO 2026-05-26 13:48:31,640 basehttp 13672 6159790080 - Broken pipe from ('127.0.0.1', 53394)
+INFO 2026-05-26 13:48:37,368 log 13672 6159790080 "PATCH /api/orders/4/ HTTP/1.1" 200 169
+INFO 2026-05-26 13:48:37,431 log 13672 6159790080 "PATCH /api/orders/4/ HTTP/1.1" 200 169
+INFO 2026-05-26 13:48:37,535 log 13672 6159790080 "PATCH /api/orders/4/ HTTP/1.1" 200 169
+INFO 2026-05-26 13:51:20,083 log 13672 6159790080 "POST /api/users/login/ HTTP/1.1" 200 98
+INFO 2026-05-26 13:51:25,578 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 786
+INFO 2026-05-26 13:51:28,385 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 200 146
+INFO 2026-05-26 13:51:30,840 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 200 138
+INFO 2026-05-26 13:51:32,283 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 200 139
+INFO 2026-05-26 13:51:33,718 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 200 143
+INFO 2026-05-26 13:51:35,157 log 13672 6159790080 "PATCH /api/orders/6/ HTTP/1.1" 200 146
+INFO 2026-05-26 13:51:39,759 log 13672 6159790080 "PATCH /api/orders/4/ HTTP/1.1" 200 172
+INFO 2026-05-26 13:51:43,483 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 796
+INFO 2026-05-26 13:54:59,321 log 13672 6159790080 "POST /api/users/login/ HTTP/1.1" 200 98
+INFO 2026-05-26 13:55:05,118 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 796
+INFO 2026-05-26 13:57:53,191 log 13672 6159790080 "POST /api/users/login/ HTTP/1.1" 200 98
+INFO 2026-05-26 13:57:58,858 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 796
+INFO 2026-05-26 13:58:15,884 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 796
+INFO 2026-05-26 13:58:20,730 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 796
+INFO 2026-05-26 13:58:23,670 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 796
+INFO 2026-05-26 13:58:31,072 log 13672 6159790080 "GET /api/orders/ HTTP/1.1" 200 796
+WARNING 2026-05-26 14:06:18,739 log 13672 6159790080 Not Found: /
+WARNING 2026-05-26 14:06:18,740 log 13672 6159790080 "GET / HTTP/1.1" 404 2781
+INFO 2026-05-26 14:06:23,390 log 13672 6159790080 "GET /admin/ HTTP/1.1" 200 9366
+INFO 2026-05-26 14:06:25,682 log 13672 6159790080 "GET /admin/users/user/ HTTP/1.1" 200 14946
+INFO 2026-05-26 14:06:25,709 log 13672 6159790080 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 14:06:27,593 log 13672 6159790080 "GET /admin/users/user/add/ HTTP/1.1" 200 15870
+INFO 2026-05-26 14:06:27,610 log 13672 6176616448 "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+INFO 2026-05-26 14:06:27,616 log 13672 6159790080 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 14:07:10,173 autoreload 13672 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/signals.py changed, reloading.
+INFO 2026-05-26 14:07:10,703 autoreload 15093 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 14:07:33,595 autoreload 15093 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/signals.py changed, reloading.
+INFO 2026-05-26 14:07:33,985 autoreload 15118 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 14:07:51,753 log 15118 6190886912 "POST /admin/users/user/add/ HTTP/1.1" 302 0
+INFO 2026-05-26 14:07:51,814 log 15118 6190886912 "GET /admin/users/user/3/change/ HTTP/1.1" 200 27631
+INFO 2026-05-26 14:07:51,852 log 15118 6190886912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 14:07:51,865 log 15118 6190886912 "GET /static/admin/img/icon-yes-dark.svg HTTP/1.1" 200 558
+ERROR 2026-05-26 14:08:26,336 log 15118 6224539648 Internal Server Error: /api/users/login/
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/users/views.py", line 26, in post
+    user.save()
+    ~~~~~~~~~^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/contrib/auth/base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 874, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 966, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1110, in _save_table
+    results = self._do_update(
+        base_qs,
+    ...<5 lines>...
+        returning_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1213, in _do_update
+    return filtered._update(values, returning_fields)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/query.py", line 1327, in _update
+    return query.get_compiler(self.db).execute_returning_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2140, in execute_returning_sql
+    row_count = self.execute_sql(ROW_COUNT)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2111, in execute_sql
+    row_count = super().execute_sql(result_type)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 1624, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+ERROR 2026-05-26 14:08:26,339 log 15118 6224539648 "POST /api/users/login/ HTTP/1.1" 500 177542
+ERROR 2026-05-26 14:09:19,319 log 15118 6241366016 Internal Server Error: /api/users/login/
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/users/views.py", line 26, in post
+    user.save()
+    ~~~~~~~~~^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/contrib/auth/base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 874, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 966, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1110, in _save_table
+    results = self._do_update(
+        base_qs,
+    ...<5 lines>...
+        returning_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1213, in _do_update
+    return filtered._update(values, returning_fields)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/query.py", line 1327, in _update
+    return query.get_compiler(self.db).execute_returning_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2140, in execute_returning_sql
+    row_count = self.execute_sql(ROW_COUNT)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2111, in execute_sql
+    row_count = super().execute_sql(result_type)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 1624, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+ERROR 2026-05-26 14:09:19,322 log 15118 6241366016 "POST /api/users/login/ HTTP/1.1" 500 177542
+INFO 2026-05-26 14:09:19,323 basehttp 15118 6241366016 - Broken pipe from ('127.0.0.1', 53719)
+INFO 2026-05-26 14:09:28,274 log 15118 6190886912 "GET /admin/users/user/3/password/ HTTP/1.1" 200 10982
+INFO 2026-05-26 14:09:34,704 log 15118 6190886912 "POST /admin/users/user/3/password/ HTTP/1.1" 200 11306
+INFO 2026-05-26 14:10:29,627 autoreload 15118 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/signals.py changed, reloading.
+INFO 2026-05-26 14:10:30,074 autoreload 15212 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 14:10:50,706 autoreload 15212 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/signals.py changed, reloading.
+INFO 2026-05-26 14:10:51,087 autoreload 15242 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 14:10:59,781 log 15242 6164131840 "POST /admin/users/user/3/password/ HTTP/1.1" 302 0
+INFO 2026-05-26 14:10:59,836 log 15242 6164131840 "GET /admin/users/user/3/change/ HTTP/1.1" 200 27536
+INFO 2026-05-26 14:10:59,871 log 15242 6164131840 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+ERROR 2026-05-26 14:11:28,931 log 15242 6197784576 Internal Server Error: /api/users/login/
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/users/views.py", line 26, in post
+    user.save()
+    ~~~~~~~~~^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/contrib/auth/base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 874, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 966, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1110, in _save_table
+    results = self._do_update(
+        base_qs,
+    ...<5 lines>...
+        returning_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1213, in _do_update
+    return filtered._update(values, returning_fields)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/query.py", line 1327, in _update
+    return query.get_compiler(self.db).execute_returning_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2140, in execute_returning_sql
+    row_count = self.execute_sql(ROW_COUNT)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2111, in execute_sql
+    row_count = super().execute_sql(result_type)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 1624, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+ERROR 2026-05-26 14:11:28,935 log 15242 6197784576 "POST /api/users/login/ HTTP/1.1" 500 177547
+INFO 2026-05-26 14:11:28,935 basehttp 15242 6197784576 - Broken pipe from ('127.0.0.1', 53752)
+ERROR 2026-05-26 14:15:23,569 log 15242 6180958208 Internal Server Error: /api/users/login/
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/users/views.py", line 26, in post
+    user.save()
+    ~~~~~~~~~^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/contrib/auth/base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 874, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 966, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1110, in _save_table
+    results = self._do_update(
+        base_qs,
+    ...<5 lines>...
+        returning_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1213, in _do_update
+    return filtered._update(values, returning_fields)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/query.py", line 1327, in _update
+    return query.get_compiler(self.db).execute_returning_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2140, in execute_returning_sql
+    row_count = self.execute_sql(ROW_COUNT)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2111, in execute_sql
+    row_count = super().execute_sql(result_type)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 1624, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+ERROR 2026-05-26 14:15:23,572 log 15242 6180958208 "POST /api/users/login/ HTTP/1.1" 500 177547
+INFO 2026-05-26 14:15:23,572 basehttp 15242 6180958208 - Broken pipe from ('127.0.0.1', 53790)
+INFO 2026-05-26 14:17:28,114 autoreload 15368 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 14:17:40,361 autoreload 15414 8483643008 Watching for file changes with StatReloader
+ERROR 2026-05-26 14:18:00,356 log 15414 6162329600 Internal Server Error: /api/users/login/
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/users/views.py", line 26, in post
+    user.save()
+    ~~~~~~~~~^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/contrib/auth/base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 874, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 966, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1110, in _save_table
+    results = self._do_update(
+        base_qs,
+    ...<5 lines>...
+        returning_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1213, in _do_update
+    return filtered._update(values, returning_fields)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/query.py", line 1327, in _update
+    return query.get_compiler(self.db).execute_returning_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2140, in execute_returning_sql
+    row_count = self.execute_sql(ROW_COUNT)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2111, in execute_sql
+    row_count = super().execute_sql(result_type)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 1624, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+ERROR 2026-05-26 14:18:00,366 log 15414 6162329600 "POST /api/users/login/ HTTP/1.1" 500 177547
+INFO 2026-05-26 14:18:00,366 basehttp 15414 6162329600 - Broken pipe from ('127.0.0.1', 53815)
+INFO 2026-05-26 14:59:26,672 log 15414 6179155968 "GET /admin/users/user/1/change/ HTTP/1.1" 200 27400
+INFO 2026-05-26 14:59:26,702 log 15414 6179155968 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,705 log 15414 6179155968 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,706 log 15414 6212808704 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,707 log 15414 6229635072 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,708 log 15414 6179155968 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,708 log 15414 6246461440 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,708 log 15414 6212808704 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,710 log 15414 6179155968 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,709 log 15414 6263287808 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,709 log 15414 6229635072 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,710 log 15414 6246461440 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,712 log 15414 6179155968 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,712 log 15414 6263287808 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,712 log 15414 6212808704 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,714 log 15414 6229635072 "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,714 log 15414 6212808704 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,714 log 15414 6263287808 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,714 log 15414 6179155968 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,714 log 15414 6246461440 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,714 log 15414 6212808704 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,718 log 15414 6195982336 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 14:59:26,720 log 15414 6195982336 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,720 log 15414 6212808704 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,739 log 15414 6212808704 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,768 log 15414 6212808704 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,771 log 15414 6212808704 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,771 log 15414 6195982336 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:26,772 log 15414 6246461440 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:36,010 log 15414 6246461440 "GET /admin/users/user/1/password/ HTTP/1.1" 200 10962
+INFO 2026-05-26 14:59:36,051 log 15414 6246461440 "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+INFO 2026-05-26 14:59:50,221 log 15414 6246461440 "GET /admin/users/user/ HTTP/1.1" 200 15408
+INFO 2026-05-26 14:59:50,238 log 15414 6246461440 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:50,239 log 15414 6212808704 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:50,240 log 15414 6212808704 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-05-26 14:59:50,257 log 15414 6195982336 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 14:59:52,787 log 15414 6195982336 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27438
+INFO 2026-05-26 14:59:52,819 log 15414 6195982336 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:00:00,845 log 15414 6195982336 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 15:00:00,882 log 15414 6195982336 "GET /admin/users/user/ HTTP/1.1" 200 15610
+INFO 2026-05-26 15:00:00,923 log 15414 6195982336 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:00:00,932 log 15414 6195982336 "GET /static/admin/img/icon-yes-dark.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:00:14,076 log 15414 6280114176 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-26 15:00:18,426 log 15414 6280114176 "GET /api/orders/ HTTP/1.1" 200 804
+INFO 2026-05-26 15:00:30,406 log 15414 6179155968 "PATCH /api/orders/4/ HTTP/1.1" 200 167
+INFO 2026-05-26 15:00:38,488 log 15414 6179155968 "GET /api/orders/ HTTP/1.1" 200 797
+INFO 2026-05-26 15:03:38,176 log 15414 6179155968 "GET /api/orders/ HTTP/1.1" 200 797
+INFO 2026-05-26 15:03:49,593 log 15414 6179155968 "GET /api/orders/ HTTP/1.1" 200 797
+INFO 2026-05-26 15:03:52,865 log 15414 6179155968 "GET /api/orders/ HTTP/1.1" 200 797
+INFO 2026-05-26 15:03:55,631 log 15414 6179155968 "GET /api/orders/ HTTP/1.1" 200 797
+INFO 2026-05-26 15:04:32,811 log 15414 6179155968 "GET /api/orders/ HTTP/1.1" 200 797
+INFO 2026-05-26 15:07:28,402 log 15414 6179155968 "GET /api/orders/ HTTP/1.1" 200 797
+INFO 2026-05-26 15:08:54,080 autoreload 15877 8483643008 Watching for file changes with StatReloader
+WARNING 2026-05-26 15:08:56,861 log 15877 6131085312 Not Found: /
+WARNING 2026-05-26 15:08:56,861 log 15877 6131085312 "GET / HTTP/1.1" 404 2781
+INFO 2026-05-26 15:09:02,288 log 15877 6131085312 "GET /admin/ HTTP/1.1" 200 10414
+INFO 2026-05-26 15:09:04,347 log 15877 6131085312 "GET /admin/users/user/ HTTP/1.1" 200 15414
+INFO 2026-05-26 15:09:04,377 log 15877 6131085312 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:09:08,811 log 15877 6131085312 "GET /admin/users/user/add/ HTTP/1.1" 200 15872
+INFO 2026-05-26 15:09:08,834 log 15877 6131085312 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:13:48,802 log 15877 6131085312 "GET /admin/users/user/ HTTP/1.1" 200 15414
+INFO 2026-05-26 15:13:48,830 log 15877 6147911680 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:13:48,831 log 15877 6164738048 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:13:48,832 log 15877 6181564416 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:13:48,834 log 15877 6198390784 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:13:48,834 log 15877 6215217152 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:13:48,841 log 15877 6215217152 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:13:48,842 log 15877 6131085312 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:13:50,670 log 15877 6131085312 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 15:13:50,695 log 15877 6131085312 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:14:28,619 log 15877 6232043520 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-26 15:14:50,868 log 15877 6131085312 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 15:14:50,921 log 15877 6131085312 "GET /admin/users/user/ HTTP/1.1" 200 15613
+INFO 2026-05-26 15:14:50,958 log 15877 6181564416 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,958 log 15877 6164738048 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,958 log 15877 6198390784 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,959 log 15877 6147911680 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,958 log 15877 6215217152 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,961 log 15877 6181564416 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,962 log 15877 6147911680 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,962 log 15877 6164738048 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,961 log 15877 6198390784 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,962 log 15877 6215217152 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,963 log 15877 6215217152 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:14:50,970 log 15877 6131085312 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:14:50,971 log 15877 6215217152 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:09,279 log 15877 6232043520 "POST /api/users/login/ HTTP/1.1" 200 103
+INFO 2026-05-26 15:15:34,184 log 15877 6232043520 "GET /api/users/profile/ HTTP/1.1" 200 57
+INFO 2026-05-26 15:15:46,430 log 15877 6215217152 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 15:15:46,447 log 15877 6215217152 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,451 log 15877 6198390784 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,452 log 15877 6147911680 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,453 log 15877 6181564416 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,453 log 15877 6164738048 "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,454 log 15877 6215217152 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,455 log 15877 6215217152 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,456 log 15877 6215217152 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,458 log 15877 6215217152 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,464 log 15877 6131085312 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:15:46,490 log 15877 6215217152 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,490 log 15877 6181564416 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:15:46,490 log 15877 6131085312 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:16:48,605 log 15877 6215217152 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 15:16:48,663 log 15877 6215217152 "GET /admin/users/user/ HTTP/1.1" 200 15613
+INFO 2026-05-26 15:16:48,717 log 15877 6215217152 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:16:51,959 log 15877 6215217152 "GET /admin/users/user/1/change/ HTTP/1.1" 200 27402
+INFO 2026-05-26 15:16:51,992 log 15877 6215217152 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:16:54,420 log 15877 6215217152 "GET /admin/users/user/ HTTP/1.1" 200 15417

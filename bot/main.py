@@ -63,7 +63,8 @@ API_ORDERS = f"{API_BASE_URL}/api/orders/"
 ORDER_STATUSES = {
     'NEW': '🆕 Новый',
     'IN_PROGRESS': '⚙️ В процессе',
-    'COMPLETED': '✅ Завершен'
+    'DONE': '✅ Завершен',
+    'CANCELED': '❌ Отменен'
 }
 
 # ========================
@@ -200,6 +201,11 @@ def sort_orders_by_date(orders: list) -> list:
     return sorted(orders, key=lambda x: x.get('created_at', ''), reverse=True)
 
 
+def filter_orders_by_status(orders: list, status: str) -> list:
+    """Фильтрует заказы по статусу"""
+    return [o for o in orders if o.get('status') == status]
+
+
 def format_order(order: dict, with_user: bool = False) -> str:
     """Форматирует заказ для отображения"""
     created_at = format_date(order.get('created_at', 'N/A'))
@@ -224,7 +230,28 @@ def get_status_keyboard(order_id: int) -> InlineKeyboardMarkup:
         [
             InlineKeyboardButton(text=ORDER_STATUSES['NEW'], callback_data=f'status_NEW_{order_id}'),
             InlineKeyboardButton(text=ORDER_STATUSES['IN_PROGRESS'], callback_data=f'status_IN_PROGRESS_{order_id}'),
-            InlineKeyboardButton(text=ORDER_STATUSES['COMPLETED'], callback_data=f'status_COMPLETED_{order_id}'),
+        ],
+        [
+            InlineKeyboardButton(text=ORDER_STATUSES['DONE'], callback_data=f'status_DONE_{order_id}'),
+            InlineKeyboardButton(text=ORDER_STATUSES['CANCELED'], callback_data=f'status_CANCELED_{order_id}'),
+        ]
+    ]
+    return InlineKeyboardMarkup(inline_keyboard=buttons)
+
+
+def get_status_filter_keyboard() -> InlineKeyboardMarkup:
+    """Создает инлайн-клавиатуру для фильтра по статусам"""
+    buttons = [
+        [
+            InlineKeyboardButton(text=ORDER_STATUSES['NEW'], callback_data='filter_NEW'),
+            InlineKeyboardButton(text=ORDER_STATUSES['IN_PROGRESS'], callback_data='filter_IN_PROGRESS'),
+        ],
+        [
+            InlineKeyboardButton(text=ORDER_STATUSES['DONE'], callback_data='filter_DONE'),
+            InlineKeyboardButton(text=ORDER_STATUSES['CANCELED'], callback_data='filter_CANCELED'),
+        ],
+        [
+            InlineKeyboardButton(text='📦 Все заказы', callback_data='filter_ALL'),
         ]
     ]
     return InlineKeyboardMarkup(inline_keyboard=buttons)
@@ -630,13 +657,60 @@ async def all_orders_handler(message: Message):
             keyboard = get_status_keyboard(order.get('id'))
             await message.answer(text, reply_markup=keyboard)
 
-        # После всех заказов показываем фильтры
-        await message.answer('Выберите действие:', reply_markup=admin_filter_keyboard)
+        # После всех заказов показываем фильтры по статусам
+        await message.answer('Отсортировать по статусу:', reply_markup=get_status_filter_keyboard())
     elif status == 200 and not orders:
-        await message.answer('Заказов нет 📭', reply_markup=admin_filter_keyboard)
+        await message.answer('Заказов нет 📭')
     else:
         logger.error(f"Admin {telegram_id}: ALL_ORDERS_ERROR (status={status})")
         await message.answer('❌ Ошибка при получении заказов')
+
+
+# ========================
+# ОБРАБОТЧИКИ: АДМИН - ФИЛЬТР ПО СТАТУСАМ (Callback)
+# ========================
+
+@dp.callback_query(lambda c: c.data.startswith('filter_'))
+async def filter_orders_by_status_handler(callback: CallbackQuery):
+    """Обработчик фильтрации заказов по статусам"""
+    telegram_id = callback.from_user.id
+    token = user_tokens.get(telegram_id)
+    role = user_roles.get(telegram_id)
+
+    if not token or role != 'admin':
+        await callback.answer('У вас нет доступа 🔒', show_alert=True)
+        return
+
+    # Парсим callback_data: "filter_NEW", "filter_IN_PROGRESS", "filter_ALL"
+    status_filter = callback.data.split('_', 1)[1]
+
+    status, orders = await api_get_orders(token)
+
+    if status == 200 and orders:
+        if status_filter == 'ALL':
+            filtered_orders = orders
+            title = '📦 Все заказы:\n\n'
+        else:
+            filtered_orders = filter_orders_by_status(orders, status_filter)
+            title = f'{ORDER_STATUSES.get(status_filter, status_filter)} заказы:\n\n'
+
+        if filtered_orders:
+            text = title
+            for order in filtered_orders:
+                text += format_order(order, with_user=True) + '\n\n'
+
+            logger.info(f"Admin {telegram_id}: FILTER_BY_STATUS (status={status_filter}, count={len(filtered_orders)})")
+
+            for message_part in split_message(text):
+                await callback.message.answer(message_part, reply_markup=get_status_filter_keyboard())
+        else:
+            await callback.message.answer(f'Заказов со статусом {ORDER_STATUSES.get(status_filter, status_filter)} не найдено 📭',
+                                         reply_markup=get_status_filter_keyboard())
+
+        await callback.answer()
+    else:
+        logger.error(f"Admin {telegram_id}: FILTER_STATUS_ERROR (status={status})")
+        await callback.answer('❌ Ошибка', show_alert=True)
 
 
 # ========================
@@ -754,7 +828,8 @@ async def statistics_handler(message: Message):
         total_orders = len(orders)
         new_orders = len([o for o in orders if o.get('status') == 'NEW'])
         in_progress = len([o for o in orders if o.get('status') == 'IN_PROGRESS'])
-        completed = len([o for o in orders if o.get('status') == 'COMPLETED'])
+        done_orders = len([o for o in orders if o.get('status') == 'DONE'])
+        canceled_orders = len([o for o in orders if o.get('status') == 'CANCELED'])
 
         logger.info(f"Admin {telegram_id}: VIEW_STATS (total={total_orders})")
 
@@ -763,7 +838,8 @@ async def statistics_handler(message: Message):
             f'📦 Всего заказов: {total_orders}\n'
             f'🆕 Новых: {new_orders}\n'
             f'⚙️ В процессе: {in_progress}\n'
-            f'✅ Завершено: {completed}'
+            f'✅ Завершено: {done_orders}\n'
+            f'❌ Отменено: {canceled_orders}'
         )
 
         await message.answer(stats_text)
@@ -787,10 +863,10 @@ async def change_order_status(callback: CallbackQuery):
         await callback.answer('У вас нет доступа 🔒', show_alert=True)
         return
 
-    # Парсим callback_data: "status_NEW_123"
-    parts = callback.data.split('_')
-    new_status = parts[1]  # NEW, IN_PROGRESS, COMPLETED
-    order_id = int(parts[2])
+    # Парсим callback_data: "status_NEW_123" -> ["status", "NEW_123"]
+    parts = callback.data.rsplit('_', 1)  # Разбираем с конца, чтобы правильно обработать IN_PROGRESS
+    order_id = int(parts[1])
+    new_status = parts[0].replace('status_', '')
 
     status, error_msg = await api_update_order_status(token, order_id, new_status)
 

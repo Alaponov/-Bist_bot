@@ -53,3 +53,4 @@ async def send_order_notification(order):
                 )
     except Exception as e:
         print(f'Error sending notification: {e}')
+# bist_tobacco_is_number_1
