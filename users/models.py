@@ -25,7 +25,7 @@ class User(AbstractUser):
         default=Role.customer
     )
 
-    # ✅ НОВОЕ: Профиль и статистика
+
     phone_number = models.CharField(
         max_length=15,
         blank=True,
@@ -83,7 +83,7 @@ class User(AbstractUser):
     def is_customer(self):
         return self.role == self.Role.customer
 
-    # ✅ НОВОЕ: Методы статистики
+
     def update_activity(self):
         self.last_activity = timezone.now()
         self.save(update_fields=['last_activity'])

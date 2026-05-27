@@ -1,5 +1,6 @@
 from django.conf import settings
 from django.db import models
+from django.db.models import F
 from django.utils import timezone
 
 
@@ -104,6 +105,7 @@ class Order(models.Model):
 
     # ✅ НОВОЕ: Методы
     def is_overdue(self):
+        """Проверяет, просрочен ли заказ"""
         if self.deadline and self.status in [self.Status.NEW, self.Status.IN_PROGRESS]:
             return timezone.now() > self.deadline
         return False
@@ -115,16 +117,26 @@ class Order(models.Model):
         return end - start
 
     def mark_in_progress(self):
+        """Отметить заказ как выполняемый"""
         self.status = self.Status.IN_PROGRESS
         self.started_at = timezone.now()
         self.save()
 
     def mark_done(self):
+        """
+        Отметить заказ как выполненный.
+        Использует атомарное обновление счётчика для избежания race conditions.
+        """
         self.status = self.Status.DONE
         self.completed_at = timezone.now()
-        self.user.completed_orders += 1
-        self.user.save()
         self.save()
+
+        # Атомарное обновление счётчика - безопасно для параллельных операций
+        from django.contrib.auth import get_user_model
+        User = get_user_model()
+        User.objects.filter(pk=self.user.pk).update(
+            completed_orders=F('completed_orders') + 1
+        )
 
     class Meta:
         ordering = ['-created_at']
@@ -164,3 +176,4 @@ class OrderReview(models.Model):
 
     class Meta:
         ordering = ['-created_at']
+
