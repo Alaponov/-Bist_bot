@@ -2893,3 +2893,40 @@ aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: messa
 2026-05-27 13:31:02,940 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9, showed=9)
 2026-05-27 13:31:04,286 - aiogram.event - INFO - Update id=263864224 is handled. Duration 1536 ms by bot id=8789903383
 2026-05-27 13:31:16,774 - aiogram.event - INFO - Update id=263864225 is handled. Duration 81 ms by bot id=8789903383
+2026-05-27 13:40:20,269 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 13:40:20,273 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 13:40:20,273 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 14:08:41,032 - __main__ - INFO - ==================================================
+2026-05-27 14:08:41,033 - __main__ - INFO - 🤖 Telegram Bot запущен
+2026-05-27 14:08:41,033 - __main__ - INFO - API Base URL: http://127.0.0.1:8000
+2026-05-27 14:08:41,033 - __main__ - INFO - Admin IDs: ['905349442']
+2026-05-27 14:08:41,033 - __main__ - INFO - ==================================================
+2026-05-27 14:08:41,033 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 14:08:41,192 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 14:08:51,929 - __main__ - INFO - Session cleared for user 905349442
+2026-05-27 14:08:51,930 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-27 14:08:52,129 - aiogram.event - INFO - Update id=263864226 is handled. Duration 203 ms by bot id=8789903383
+2026-05-27 14:08:59,522 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 14:08:59,588 - aiogram.event - INFO - Update id=263864227 is handled. Duration 67 ms by bot id=8789903383
+2026-05-27 14:09:10,095 - aiogram.event - INFO - Update id=263864228 is handled. Duration 100 ms by bot id=8789903383
+2026-05-27 14:09:13,080 - __main__ - INFO - Session created for user 905349442 with role admin
+2026-05-27 14:09:13,080 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-27 14:09:13,159 - aiogram.event - INFO - Update id=263864229 is handled. Duration 464 ms by bot id=8789903383
+2026-05-27 14:09:23,327 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9, showed=9)
+2026-05-27 14:09:24,144 - aiogram.event - INFO - Update id=263864230 is handled. Duration 937 ms by bot id=8789903383
+2026-05-27 14:09:36,416 - aiogram.event - INFO - Update id=263864231 is handled. Duration 118 ms by bot id=8789903383
+2026-05-27 14:09:42,226 - __main__ - INFO - User 905349442: HELP_BUTTON
+2026-05-27 14:09:42,227 - aiogram.event - INFO - Update id=263864232 is handled. Duration 68 ms by bot id=8789903383
+2026-05-27 14:10:29,924 - __main__ - INFO - Admin 905349442: VIEW_STATS (total=9)
+2026-05-27 14:10:30,001 - aiogram.event - INFO - Update id=263864233 is handled. Duration 229 ms by bot id=8789903383
+2026-05-27 14:10:38,757 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-27 14:10:38,825 - aiogram.event - INFO - Update id=263864234 is handled. Duration 163 ms by bot id=8789903383
+2026-05-27 14:10:48,540 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9, showed=9)
+2026-05-27 14:10:49,414 - aiogram.event - INFO - Update id=263864235 is handled. Duration 988 ms by bot id=8789903383
+2026-05-27 14:10:56,327 - __main__ - INFO - Admin 905349442: FILTER_BY_DATE (count=9)
+2026-05-27 14:10:56,479 - aiogram.event - INFO - Update id=263864236 is handled. Duration 288 ms by bot id=8789903383
+2026-05-27 14:11:06,437 - aiogram.event - INFO - Update id=263864237 is handled. Duration 75 ms by bot id=8789903383
+2026-05-27 14:11:08,642 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=IN_PROGRESS, count=1)
+2026-05-27 14:11:08,809 - aiogram.event - INFO - Update id=263864238 is handled. Duration 324 ms by bot id=8789903383
+2026-05-27 14:11:46,974 - __main__ - INFO - Admin 905349442: FILTER_BY_USER (users=3)
+2026-05-27 14:11:47,144 - aiogram.event - INFO - Update id=263864239 is handled. Duration 349 ms by bot id=8789903383

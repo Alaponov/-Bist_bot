@@ -49,6 +49,9 @@ INSTALLED_APPS = [
 
     'users',
     'orders',
+    'analytics',
+    'notifications',
+
 ]
 
 
@@ -158,6 +161,11 @@ REST_FRAMEWORK = {
         "rest_framework.throttling.AnonRateThrottle",
         "rest_framework.throttling.UserRateThrottle"
     ),
+
+    "COMET_PAGINATION_CLASS": "rest_framework.pagination.CursorPagination",
+    "COMET_PAGE_SIZE": 50,
+
+
     "DEFAULT_THROTTLE_RATES": {
         "anon": "100/hour",
         "user": "1000/hour",
@@ -167,6 +175,11 @@ REST_FRAMEWORK = {
         "booking_create": "50/day",
         "review_create": "20/day",
         "search": "1000/hour",
+
+        "order_create": "50/day",
+        "order_update": "200/day",
+        "order_delete": "20/day",
+        "profile_update": "30/hour",
     },
 }
 
