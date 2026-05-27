@@ -2151,3 +2151,721 @@ aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: messa
 2026-05-26 18:15:09,358 - aiogram.event - INFO - Update id=263864055 is handled. Duration 396 ms by bot id=8789903383
 2026-05-26 18:15:34,185 - __main__ - INFO - User 905349442: VIEW_PROFILE
 2026-05-26 18:15:34,256 - aiogram.event - INFO - Update id=263864056 is handled. Duration 103 ms by bot id=8789903383
+2026-05-26 18:37:07,727 - __main__ - INFO - User 905349442: DELETE_ORDER_START
+2026-05-26 18:37:07,733 - __main__ - INFO - User 905349442: ORDER_START
+2026-05-26 18:37:07,743 - __main__ - INFO - User 905349442: DELETE_ORDER_START
+2026-05-26 18:37:07,743 - __main__ - INFO - User 905349442: DELETE_ORDER_START
+2026-05-26 18:37:07,782 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 18:37:07,789 - __main__ - INFO - User 905349442: VIEW_MY_ORDERS (count=4)
+2026-05-26 18:37:07,789 - __main__ - INFO - User 905349442: VIEW_MY_ORDERS (count=4)
+2026-05-26 18:37:07,923 - aiogram.event - INFO - Update id=263864058 is handled. Duration 213 ms by bot id=8789903383
+2026-05-26 18:37:07,932 - aiogram.event - INFO - Update id=263864063 is handled. Duration 218 ms by bot id=8789903383
+2026-05-26 18:37:07,954 - aiogram.event - INFO - Update id=263864064 is handled. Duration 241 ms by bot id=8789903383
+2026-05-26 18:37:07,977 - aiogram.event - INFO - Update id=263864057 is handled. Duration 269 ms by bot id=8789903383
+2026-05-26 18:37:08,001 - aiogram.event - INFO - Update id=263864060 is handled. Duration 288 ms by bot id=8789903383
+2026-05-26 18:37:08,025 - aiogram.event - INFO - Update id=263864062 is handled. Duration 312 ms by bot id=8789903383
+2026-05-26 18:37:08,054 - aiogram.event - INFO - Update id=263864059 is handled. Duration 342 ms by bot id=8789903383
+2026-05-26 18:37:08,074 - aiogram.event - INFO - Update id=263864061 is handled. Duration 361 ms by bot id=8789903383
+2026-05-26 18:53:55,592 - __main__ - INFO - User 905349442: VIEW_MY_ORDERS (count=4)
+2026-05-26 18:53:55,776 - aiogram.event - INFO - Update id=263864065 is handled. Duration 475 ms by bot id=8789903383
+2026-05-26 18:54:51,645 - __main__ - INFO - User 905349442: START
+2026-05-26 18:54:51,752 - aiogram.event - INFO - Update id=263864066 is handled. Duration 107 ms by bot id=8789903383
+2026-05-26 18:54:56,814 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 18:54:56,890 - aiogram.event - INFO - Update id=263864067 is handled. Duration 77 ms by bot id=8789903383
+2026-05-26 18:55:00,793 - aiogram.event - INFO - Update id=263864068 is handled. Duration 102 ms by bot id=8789903383
+2026-05-26 18:55:03,388 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 18:55:03,561 - aiogram.event - INFO - Update id=263864069 is handled. Duration 495 ms by bot id=8789903383
+2026-05-26 18:57:05,132 - __main__ - INFO - User 203767986: START
+2026-05-26 18:57:05,204 - aiogram.event - INFO - Update id=263864070 is handled. Duration 72 ms by bot id=8789903383
+2026-05-26 18:59:33,307 - __main__ - INFO - User 203767986: LOGIN_START
+2026-05-26 18:59:33,505 - aiogram.event - INFO - Update id=263864071 is handled. Duration 201 ms by bot id=8789903383
+2026-05-26 18:59:38,897 - aiogram.event - INFO - Update id=263864072 is handled. Duration 66 ms by bot id=8789903383
+2026-05-26 18:59:50,904 - __main__ - INFO - User 203767986: LOGIN_SUCCESS (role=customer)
+2026-05-26 18:59:51,018 - aiogram.event - INFO - Update id=263864073 is handled. Duration 427 ms by bot id=8789903383
+2026-05-26 19:00:01,838 - __main__ - INFO - User 203767986: ORDER_START
+2026-05-26 19:00:01,920 - aiogram.event - INFO - Update id=263864074 is handled. Duration 85 ms by bot id=8789903383
+2026-05-26 19:00:22,157 - __main__ - INFO - User 203767986: ORDER_CREATED (id=7)
+2026-05-26 19:00:22,317 - aiogram.event - INFO - Update id=263864075 is handled. Duration 214 ms by bot id=8789903383
+2026-05-26 19:00:30,365 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=6)
+2026-05-26 19:00:31,654 - aiogram.event - INFO - Update id=263864076 is handled. Duration 1325 ms by bot id=8789903383
+2026-05-26 19:01:54,248 - aiogram.event - INFO - Update id=263864077 is handled. Duration 244 ms by bot id=8789903383
+2026-05-26 19:06:59,971 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=7, status=CANCELED)
+2026-05-26 19:06:59,975 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=7, status=CANCELED)
+2026-05-26 19:07:00,389 - aiogram.event - INFO - Update id=263864078 is not handled. Duration 522 ms by bot id=8789903383
+2026-05-26 19:07:00,389 - aiogram.event - ERROR - Cause exception while process update id=263864078 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 878, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 19:07:00,488 - aiogram.event - INFO - Update id=263864079 is not handled. Duration 620 ms by bot id=8789903383
+2026-05-26 19:07:00,488 - aiogram.event - ERROR - Cause exception while process update id=263864079 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 878, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 19:07:02,785 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=7, status=DONE)
+2026-05-26 19:07:02,935 - aiogram.event - INFO - Update id=263864080 is not handled. Duration 189 ms by bot id=8789903383
+2026-05-26 19:07:02,936 - aiogram.event - ERROR - Cause exception while process update id=263864080 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 878, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 19:07:04,522 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=7, status=CANCELED)
+2026-05-26 19:07:04,993 - aiogram.event - INFO - Update id=263864081 is not handled. Duration 511 ms by bot id=8789903383
+2026-05-26 19:07:04,993 - aiogram.event - ERROR - Cause exception while process update id=263864081 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 878, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-26 19:07:06,725 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=CANCELED, count=1)
+2026-05-26 19:07:07,032 - aiogram.event - INFO - Update id=263864082 is handled. Duration 347 ms by bot id=8789903383
+2026-05-26 19:08:12,098 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-26 19:08:12,247 - aiogram.event - INFO - Update id=263864083 is handled. Duration 154 ms by bot id=8789903383
+2026-05-26 19:08:17,053 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 19:08:17,150 - aiogram.event - INFO - Update id=263864084 is handled. Duration 97 ms by bot id=8789903383
+2026-05-26 19:08:42,871 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 19:08:42,959 - aiogram.event - INFO - Update id=263864085 is handled. Duration 90 ms by bot id=8789903383
+2026-05-26 19:08:48,253 - aiogram.event - INFO - Update id=263864086 is handled. Duration 71 ms by bot id=8789903383
+2026-05-26 19:08:53,552 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=customer)
+2026-05-26 19:08:53,652 - aiogram.event - INFO - Update id=263864087 is handled. Duration 400 ms by bot id=8789903383
+2026-05-26 19:08:59,616 - __main__ - INFO - User 905349442: ORDER_START
+2026-05-26 19:08:59,714 - aiogram.event - INFO - Update id=263864088 is handled. Duration 99 ms by bot id=8789903383
+2026-05-26 19:09:16,057 - __main__ - INFO - User 905349442: ORDER_CREATED (id=8)
+2026-05-26 19:09:16,209 - aiogram.event - INFO - Update id=263864089 is handled. Duration 203 ms by bot id=8789903383
+2026-05-26 19:09:35,346 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-26 19:09:35,423 - aiogram.event - INFO - Update id=263864090 is handled. Duration 81 ms by bot id=8789903383
+2026-05-26 19:09:39,109 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 19:09:39,309 - aiogram.event - INFO - Update id=263864091 is handled. Duration 200 ms by bot id=8789903383
+2026-05-26 19:09:49,119 - aiogram.event - INFO - Update id=263864092 is handled. Duration 70 ms by bot id=8789903383
+2026-05-26 19:09:51,175 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=customer)
+2026-05-26 19:09:51,248 - aiogram.event - INFO - Update id=263864093 is handled. Duration 384 ms by bot id=8789903383
+2026-05-26 19:10:09,801 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-26 19:10:09,887 - aiogram.event - INFO - Update id=263864094 is handled. Duration 91 ms by bot id=8789903383
+2026-05-26 19:10:14,181 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 19:10:14,351 - aiogram.event - INFO - Update id=263864095 is handled. Duration 170 ms by bot id=8789903383
+2026-05-26 19:10:19,313 - aiogram.event - INFO - Update id=263864096 is handled. Duration 78 ms by bot id=8789903383
+2026-05-26 19:10:21,928 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 19:10:22,005 - aiogram.event - INFO - Update id=263864097 is handled. Duration 383 ms by bot id=8789903383
+2026-05-26 19:10:27,825 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=7)
+2026-05-26 19:10:28,500 - aiogram.event - INFO - Update id=263864098 is handled. Duration 721 ms by bot id=8789903383
+2026-05-26 19:23:35,069 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 19:23:35,082 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 19:23:35,082 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 19:23:39,619 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 19:23:39,619 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 19:23:39,872 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 19:23:48,762 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-26 19:23:49,021 - aiogram.event - INFO - Update id=263864099 is handled. Duration 262 ms by bot id=8789903383
+2026-05-26 19:24:03,811 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 19:24:03,918 - aiogram.event - INFO - Update id=263864100 is handled. Duration 109 ms by bot id=8789903383
+2026-05-26 19:24:07,797 - aiogram.event - INFO - Update id=263864101 is handled. Duration 67 ms by bot id=8789903383
+2026-05-26 19:24:10,962 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=customer)
+2026-05-26 19:24:11,039 - aiogram.event - INFO - Update id=263864102 is handled. Duration 382 ms by bot id=8789903383
+2026-05-26 19:24:15,716 - __main__ - INFO - User 905349442: ORDER_START
+2026-05-26 19:24:15,828 - aiogram.event - INFO - Update id=263864103 is handled. Duration 113 ms by bot id=8789903383
+2026-05-26 19:25:07,693 - __main__ - INFO - User 905349442: ORDER_CREATED (id=9)
+2026-05-26 19:25:07,852 - aiogram.event - INFO - Update id=263864104 is handled. Duration 219 ms by bot id=8789903383
+2026-05-26 19:25:14,664 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-26 19:25:14,747 - aiogram.event - INFO - Update id=263864105 is handled. Duration 86 ms by bot id=8789903383
+2026-05-26 19:25:24,950 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 19:25:25,041 - aiogram.event - INFO - Update id=263864106 is handled. Duration 93 ms by bot id=8789903383
+2026-05-26 19:25:35,361 - aiogram.event - INFO - Update id=263864107 is handled. Duration 73 ms by bot id=8789903383
+2026-05-26 19:25:38,126 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 19:25:38,198 - aiogram.event - INFO - Update id=263864108 is handled. Duration 350 ms by bot id=8789903383
+2026-05-26 19:25:41,785 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=8)
+2026-05-26 19:25:42,592 - aiogram.event - INFO - Update id=263864109 is handled. Duration 852 ms by bot id=8789903383
+2026-05-26 19:33:42,900 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 19:33:42,907 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 19:33:42,907 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 19:33:46,437 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 19:33:46,438 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 19:33:46,615 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 19:33:57,902 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-26 19:33:58,121 - aiogram.event - INFO - Update id=263864110 is handled. Duration 221 ms by bot id=8789903383
+2026-05-26 19:34:00,586 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 19:34:00,665 - aiogram.event - INFO - Update id=263864111 is handled. Duration 79 ms by bot id=8789903383
+2026-05-26 19:34:07,962 - aiogram.event - INFO - Update id=263864112 is handled. Duration 105 ms by bot id=8789903383
+2026-05-26 19:34:10,325 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-26 19:34:10,459 - aiogram.event - INFO - Update id=263864113 is handled. Duration 496 ms by bot id=8789903383
+2026-05-26 19:44:37,412 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-05-26 19:44:37,415 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8789903383)
+2026-05-26 19:44:38,620 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8789903383)
+2026-05-26 19:44:38,742 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:44:38,747 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:44:38,748 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:44:38,748 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:44:38,749 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:44:38,749 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:44:38,855 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=8)
+2026-05-26 19:44:38,908 - aiogram.event - INFO - Update id=263864118 is handled. Duration 282 ms by bot id=8789903383
+2026-05-26 19:44:38,932 - aiogram.event - INFO - Update id=263864117 is handled. Duration 306 ms by bot id=8789903383
+2026-05-26 19:44:38,954 - aiogram.event - INFO - Update id=263864114 is handled. Duration 331 ms by bot id=8789903383
+2026-05-26 19:44:38,973 - aiogram.event - INFO - Update id=263864119 is handled. Duration 347 ms by bot id=8789903383
+2026-05-26 19:44:38,992 - aiogram.event - INFO - Update id=263864115 is handled. Duration 367 ms by bot id=8789903383
+2026-05-26 19:44:39,187 - aiogram.event - INFO - Update id=263864116 is handled. Duration 561 ms by bot id=8789903383
+2026-05-26 19:44:39,680 - aiogram.event - INFO - Update id=263864120 is handled. Duration 845 ms by bot id=8789903383
+2026-05-26 19:44:46,944 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:44:47,016 - aiogram.event - INFO - Update id=263864121 is handled. Duration 108 ms by bot id=8789903383
+2026-05-26 19:45:05,468 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:45:05,556 - aiogram.event - INFO - Update id=263864122 is handled. Duration 120 ms by bot id=8789903383
+2026-05-26 19:45:10,406 - __main__ - INFO - Admin 905349442: VIEW_STATS (total=8)
+2026-05-26 19:45:10,477 - aiogram.event - INFO - Update id=263864123 is handled. Duration 117 ms by bot id=8789903383
+2026-05-26 19:47:57,353 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 19:47:57,597 - aiogram.event - INFO - Update id=263864124 is handled. Duration 309 ms by bot id=8789903383
+2026-05-26 20:14:38,995 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 54] Connection reset by peer
+2026-05-26 20:14:38,996 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8789903383)
+2026-05-26 20:19:22,915 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-05-26 20:19:22,919 - aiogram.dispatcher - WARNING - Sleep for 1.378670 seconds and try again... (tryings = 1, bot id = 8789903383)
+2026-05-26 20:19:24,501 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8789903383)
+2026-05-26 20:19:24,774 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 20:19:24,962 - aiogram.event - INFO - Update id=263864125 is handled. Duration 459 ms by bot id=8789903383
+2026-05-26 20:30:50,756 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 20:30:50,840 - aiogram.event - INFO - Update id=263864126 is handled. Duration 208 ms by bot id=8789903383
+2026-05-26 20:43:49,042 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 20:43:49,141 - aiogram.event - INFO - Update id=263864127 is handled. Duration 274 ms by bot id=8789903383
+2026-05-26 20:43:52,684 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 20:43:52,991 - aiogram.event - INFO - Update id=263864128 is handled. Duration 340 ms by bot id=8789903383
+2026-05-26 21:33:04,918 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 54] Connection reset by peer
+2026-05-26 21:33:04,920 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8789903383)
+2026-05-26 21:47:45,681 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-05-26 21:47:45,683 - aiogram.dispatcher - WARNING - Sleep for 1.373049 seconds and try again... (tryings = 1, bot id = 8789903383)
+2026-05-26 21:47:57,234 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8789903383)
+2026-05-26 21:48:11,304 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-26 21:48:11,307 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 21:48:11,307 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-26 21:48:15,776 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 21:48:15,776 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 21:48:16,011 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-26 21:48:26,343 - __main__ - INFO - User 905349442: START
+2026-05-26 21:48:26,532 - aiogram.event - INFO - Update id=263864129 is handled. Duration 190 ms by bot id=8789903383
+2026-05-26 21:48:33,808 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 21:48:33,887 - aiogram.event - INFO - Update id=263864130 is handled. Duration 81 ms by bot id=8789903383
+2026-05-26 21:48:37,825 - aiogram.event - INFO - Update id=263864131 is handled. Duration 83 ms by bot id=8789903383
+2026-05-26 21:48:42,587 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=customer)
+2026-05-26 21:48:42,674 - aiogram.event - INFO - Update id=263864132 is handled. Duration 410 ms by bot id=8789903383
+2026-05-26 21:48:52,692 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 21:48:52,764 - aiogram.event - INFO - Update id=263864133 is handled. Duration 108 ms by bot id=8789903383
+2026-05-26 21:50:55,683 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-26 21:50:55,771 - aiogram.event - INFO - Update id=263864134 is handled. Duration 91 ms by bot id=8789903383
+2026-05-26 21:51:05,880 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 21:51:05,983 - aiogram.event - INFO - Update id=263864135 is handled. Duration 105 ms by bot id=8789903383
+2026-05-26 21:51:14,662 - aiogram.event - INFO - Update id=263864136 is handled. Duration 71 ms by bot id=8789903383
+2026-05-26 21:52:09,545 - __main__ - WARNING - User 905349442: LOGIN_FAILED for anatoliilaponov
+2026-05-26 21:52:09,614 - aiogram.event - INFO - Update id=263864137 is handled. Duration 431 ms by bot id=8789903383
+2026-05-26 21:52:54,382 - aiogram.event - INFO - Update id=263864138 is handled. Duration 74 ms by bot id=8789903383
+2026-05-26 21:53:10,211 - __main__ - WARNING - User 905349442: LOGIN_FAILED for anatoliilaponov
+2026-05-26 21:53:10,287 - aiogram.event - INFO - Update id=263864139 is handled. Duration 400 ms by bot id=8789903383
+2026-05-26 21:53:46,463 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-26 21:53:46,533 - aiogram.event - INFO - Update id=263864140 is handled. Duration 72 ms by bot id=8789903383
+2026-05-26 21:53:51,208 - aiogram.event - INFO - Update id=263864141 is handled. Duration 70 ms by bot id=8789903383
+2026-05-26 21:53:54,481 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=customer)
+2026-05-26 21:53:54,555 - aiogram.event - INFO - Update id=263864142 is handled. Duration 389 ms by bot id=8789903383
+2026-05-26 21:54:01,543 - __main__ - INFO - User 905349442: ORDER_START
+2026-05-26 21:54:01,614 - aiogram.event - INFO - Update id=263864143 is handled. Duration 72 ms by bot id=8789903383
+2026-05-26 22:11:18,616 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-05-26 22:11:18,619 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8789903383)
+2026-05-26 22:11:22,307 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8789903383)
+2026-05-26 22:11:22,310 - __main__ - INFO - User 6860988181: START
+2026-05-26 22:11:22,576 - aiogram.event - INFO - Update id=263864144 is handled. Duration 266 ms by bot id=8789903383
+2026-05-26 22:11:25,293 - __main__ - INFO - User 6860988181: LOGIN_START
+2026-05-26 22:11:25,362 - aiogram.event - INFO - Update id=263864145 is handled. Duration 72 ms by bot id=8789903383
+2026-05-26 22:11:56,396 - aiogram.event - INFO - Update id=263864146 is handled. Duration 85 ms by bot id=8789903383
+2026-05-26 22:12:15,977 - __main__ - INFO - User 6860988181: LOGIN_SUCCESS (role=admin)
+2026-05-26 22:12:16,115 - aiogram.event - INFO - Update id=263864147 is handled. Duration 552 ms by bot id=8789903383
+2026-05-26 22:12:58,793 - __main__ - INFO - User 6860988181: VIEW_PROFILE
+2026-05-26 22:12:58,869 - aiogram.event - INFO - Update id=263864148 is handled. Duration 132 ms by bot id=8789903383
+2026-05-26 22:13:29,261 - __main__ - INFO - Admin 6860988181: VIEW_ALL_ORDERS (count=8)
+2026-05-26 22:13:29,303 - __main__ - INFO - Admin 6860988181: VIEW_ALL_ORDERS (count=8)
+2026-05-26 22:13:29,304 - __main__ - INFO - Admin 6860988181: VIEW_STATS (total=8)
+2026-05-26 22:13:29,731 - aiogram.event - INFO - Update id=263864150 is handled. Duration 473 ms by bot id=8789903383
+2026-05-26 22:13:30,514 - aiogram.event - INFO - Update id=263864149 is handled. Duration 1320 ms by bot id=8789903383
+2026-05-26 22:13:30,563 - aiogram.event - INFO - Update id=263864151 is handled. Duration 1305 ms by bot id=8789903383
+2026-05-26 22:14:39,481 - __main__ - INFO - User 905349442: ORDER_CREATED (id=10)
+2026-05-26 22:14:39,697 - aiogram.event - INFO - Update id=263864152 is handled. Duration 255 ms by bot id=8789903383
+2026-05-26 22:15:42,967 - __main__ - INFO - Admin 6860988181: VIEW_ALL_ORDERS (count=9)
+2026-05-26 22:15:44,035 - aiogram.event - INFO - Update id=263864153 is handled. Duration 1120 ms by bot id=8789903383
+2026-05-26 22:16:16,966 - __main__ - INFO - Admin 6860988181: FILTER_BY_STATUS (status=NEW, count=6)
+2026-05-26 22:16:17,102 - aiogram.event - INFO - Update id=263864154 is handled. Duration 184 ms by bot id=8789903383
+2026-05-26 22:16:37,434 - __main__ - INFO - Admin 6860988181: FILTER_BY_STATUS (status=IN_PROGRESS, count=1)
+2026-05-26 22:16:37,564 - aiogram.event - INFO - Update id=263864155 is handled. Duration 185 ms by bot id=8789903383
+2026-05-26 22:16:53,330 - __main__ - INFO - Admin 6860988181: FILTER_BY_STATUS (status=DONE, count=1)
+2026-05-26 22:16:53,460 - aiogram.event - INFO - Update id=263864156 is handled. Duration 189 ms by bot id=8789903383
+2026-05-26 22:17:40,069 - __main__ - INFO - Admin 6860988181: VIEW_STATS (total=9)
+2026-05-26 22:17:40,245 - aiogram.event - INFO - Update id=263864157 is handled. Duration 231 ms by bot id=8789903383
+2026-05-26 22:18:05,718 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-26 22:18:05,787 - aiogram.event - INFO - Update id=263864158 is handled. Duration 95 ms by bot id=8789903383
+2026-05-26 22:21:46,583 - __main__ - INFO - 🤖 Бот запущен
+2026-05-26 22:21:46,583 - aiogram.dispatcher - INFO - Start polling
+2026-05-26 22:21:46,733 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 11:11:07,740 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 11:11:07,740 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 11:11:07,900 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 11:12:06,875 - aiogram.event - INFO - Update id=263864159 is handled. Duration 225 ms by bot id=8789903383
+2026-05-27 11:12:33,105 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-27 11:12:33,176 - aiogram.event - INFO - Update id=263864160 is handled. Duration 73 ms by bot id=8789903383
+2026-05-27 11:12:36,083 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 11:12:36,158 - aiogram.event - INFO - Update id=263864161 is handled. Duration 75 ms by bot id=8789903383
+2026-05-27 11:12:44,338 - aiogram.event - INFO - Update id=263864162 is handled. Duration 80 ms by bot id=8789903383
+2026-05-27 11:12:46,634 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=customer)
+2026-05-27 11:12:46,711 - aiogram.event - INFO - Update id=263864163 is handled. Duration 435 ms by bot id=8789903383
+2026-05-27 11:12:55,731 - __main__ - INFO - User 905349442: VIEW_PROFILE
+2026-05-27 11:12:55,817 - aiogram.event - INFO - Update id=263864164 is handled. Duration 115 ms by bot id=8789903383
+2026-05-27 11:13:04,348 - __main__ - INFO - User 905349442: VIEW_MY_ORDERS (count=7)
+2026-05-27 11:13:04,423 - aiogram.event - INFO - Update id=263864165 is handled. Duration 110 ms by bot id=8789903383
+2026-05-27 11:13:48,544 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-27 11:13:48,713 - aiogram.event - INFO - Update id=263864166 is handled. Duration 174 ms by bot id=8789903383
+2026-05-27 11:13:52,166 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 11:13:52,247 - aiogram.event - INFO - Update id=263864167 is handled. Duration 81 ms by bot id=8789903383
+2026-05-27 11:13:58,894 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 11:13:58,960 - aiogram.event - INFO - Update id=263864168 is handled. Duration 66 ms by bot id=8789903383
+2026-05-27 11:14:07,230 - aiogram.event - INFO - Update id=263864169 is handled. Duration 86 ms by bot id=8789903383
+2026-05-27 11:14:12,661 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-27 11:14:12,731 - aiogram.event - INFO - Update id=263864170 is handled. Duration 381 ms by bot id=8789903383
+2026-05-27 11:15:16,329 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 11:15:17,172 - aiogram.event - INFO - Update id=263864171 is handled. Duration 903 ms by bot id=8789903383
+2026-05-27 11:32:44,906 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 11:32:44,910 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 11:32:44,910 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 11:32:48,432 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 11:32:48,432 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 11:32:48,690 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 11:32:52,789 - aiogram.event - INFO - Update id=263864172 is not handled. Duration 0 ms by bot id=8789903383
+2026-05-27 11:33:06,247 - aiogram.event - INFO - Update id=263864173 is not handled. Duration 13 ms by bot id=8789903383
+2026-05-27 11:34:04,523 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 11:34:04,527 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 11:34:04,528 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 11:34:07,904 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 11:34:07,904 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 11:34:08,065 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 11:34:11,993 - __main__ - INFO - User 905349442: LOGOUT
+2026-05-27 11:34:12,198 - aiogram.event - INFO - Update id=263864174 is handled. Duration 208 ms by bot id=8789903383
+2026-05-27 11:41:39,689 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 11:41:39,693 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 11:41:39,693 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 11:41:42,801 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 11:41:42,801 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 11:41:42,972 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 11:42:13,685 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 11:42:13,880 - aiogram.event - INFO - Update id=263864175 is handled. Duration 197 ms by bot id=8789903383
+2026-05-27 11:42:26,894 - aiogram.event - INFO - Update id=263864176 is handled. Duration 75 ms by bot id=8789903383
+2026-05-27 11:42:29,315 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-27 11:42:29,400 - aiogram.event - INFO - Update id=263864177 is handled. Duration 603 ms by bot id=8789903383
+2026-05-27 11:42:32,935 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 11:42:33,740 - aiogram.event - INFO - Update id=263864178 is handled. Duration 852 ms by bot id=8789903383
+2026-05-27 11:43:46,750 - __main__ - INFO - Admin 905349442: FILTER_BY_DATE (count=9)
+2026-05-27 11:43:46,832 - aiogram.event - INFO - Update id=263864179 is handled. Duration 161 ms by bot id=8789903383
+2026-05-27 11:44:08,125 - __main__ - INFO - Admin 905349442: FILTER_BY_USER (users=3)
+2026-05-27 11:44:08,261 - aiogram.event - INFO - Update id=263864180 is handled. Duration 194 ms by bot id=8789903383
+2026-05-27 11:44:35,090 - __main__ - INFO - Admin 905349442: NO_SORT
+2026-05-27 11:44:35,252 - aiogram.event - INFO - Update id=263864181 is handled. Duration 165 ms by bot id=8789903383
+2026-05-27 11:44:42,735 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 11:44:43,778 - aiogram.event - INFO - Update id=263864182 is handled. Duration 1093 ms by bot id=8789903383
+2026-05-27 12:07:05,037 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 12:07:05,040 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:07:05,040 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 12:07:08,612 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 12:07:08,612 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 12:07:09,053 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:07:22,650 - aiogram.event - INFO - Update id=263864183 is handled. Duration 193 ms by bot id=8789903383
+2026-05-27 12:07:45,482 - __main__ - INFO - User 905349442: START
+2026-05-27 12:07:45,613 - aiogram.event - INFO - Update id=263864184 is handled. Duration 133 ms by bot id=8789903383
+2026-05-27 12:07:51,728 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 12:07:51,799 - aiogram.event - INFO - Update id=263864185 is handled. Duration 72 ms by bot id=8789903383
+2026-05-27 12:07:56,011 - aiogram.event - INFO - Update id=263864186 is handled. Duration 82 ms by bot id=8789903383
+2026-05-27 12:07:59,147 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-27 12:07:59,220 - aiogram.event - INFO - Update id=263864187 is handled. Duration 585 ms by bot id=8789903383
+2026-05-27 12:08:04,222 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 12:08:05,093 - aiogram.event - INFO - Update id=263864188 is handled. Duration 921 ms by bot id=8789903383
+2026-05-27 12:08:19,760 - aiogram.event - INFO - Update id=263864189 is handled. Duration 886 ms by bot id=8789903383
+2026-05-27 12:08:25,217 - aiogram.event - INFO - Update id=263864190 is handled. Duration 76 ms by bot id=8789903383
+2026-05-27 12:08:35,404 - __main__ - INFO - Admin 905349442: FILTER_BY_USER (users=3)
+2026-05-27 12:08:35,483 - aiogram.event - INFO - Update id=263864191 is handled. Duration 130 ms by bot id=8789903383
+2026-05-27 12:08:39,401 - aiogram.event - INFO - Update id=263864192 is handled. Duration 996 ms by bot id=8789903383
+2026-05-27 12:10:13,398 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 12:10:13,403 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:10:13,403 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 12:10:22,303 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 12:10:22,304 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 12:10:22,575 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:10:35,542 - __main__ - INFO - User 905349442: START
+2026-05-27 12:10:35,738 - aiogram.event - INFO - Update id=263864193 is handled. Duration 197 ms by bot id=8789903383
+2026-05-27 12:10:41,373 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 12:10:41,523 - aiogram.event - INFO - Update id=263864194 is handled. Duration 152 ms by bot id=8789903383
+2026-05-27 12:11:01,902 - aiogram.event - INFO - Update id=263864195 is handled. Duration 102 ms by bot id=8789903383
+2026-05-27 12:11:04,987 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-27 12:11:05,116 - aiogram.event - INFO - Update id=263864196 is handled. Duration 443 ms by bot id=8789903383
+2026-05-27 12:11:14,575 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 12:11:15,406 - aiogram.event - INFO - Update id=263864197 is handled. Duration 884 ms by bot id=8789903383
+2026-05-27 12:13:04,642 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 12:13:04,645 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:13:04,646 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 12:13:07,972 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 12:13:07,973 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 12:13:08,406 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:13:12,943 - __main__ - INFO - User 905349442: START
+2026-05-27 12:13:13,131 - aiogram.event - INFO - Update id=263864198 is handled. Duration 189 ms by bot id=8789903383
+2026-05-27 12:13:17,193 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 12:13:17,274 - aiogram.event - INFO - Update id=263864199 is handled. Duration 83 ms by bot id=8789903383
+2026-05-27 12:13:29,558 - aiogram.event - INFO - Update id=263864200 is handled. Duration 86 ms by bot id=8789903383
+2026-05-27 12:13:31,750 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-27 12:13:31,957 - aiogram.event - INFO - Update id=263864201 is handled. Duration 544 ms by bot id=8789903383
+2026-05-27 12:13:37,271 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 12:13:38,314 - aiogram.event - INFO - Update id=263864202 is handled. Duration 1079 ms by bot id=8789903383
+2026-05-27 12:13:43,970 - __main__ - INFO - Admin 905349442: ORDER_STATUS_CHANGED (id=10, status=DONE)
+2026-05-27 12:13:44,183 - aiogram.event - INFO - Update id=263864203 is not handled. Duration 257 ms by bot id=8789903383
+2026-05-27 12:13:44,184 - aiogram.event - ERROR - Cause exception while process update id=263864203 by bot id=8789903383
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/bot/main.py", line 771, in change_order_status
+    await callback.message.edit_reply_markup(reply_markup=get_status_keyboard(order_id))
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/methods/base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/bot.py", line 504, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/aiogram/client/session/base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-05-27 12:13:57,848 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 12:13:58,784 - aiogram.event - INFO - Update id=263864204 is handled. Duration 969 ms by bot id=8789903383
+2026-05-27 12:14:48,741 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 12:14:48,748 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:14:48,748 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 12:14:52,799 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 12:14:52,800 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 12:14:52,970 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:14:58,718 - __main__ - INFO - User 905349442: START
+2026-05-27 12:14:58,920 - aiogram.event - INFO - Update id=263864205 is handled. Duration 201 ms by bot id=8789903383
+2026-05-27 12:15:05,574 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 12:15:05,652 - aiogram.event - INFO - Update id=263864206 is handled. Duration 78 ms by bot id=8789903383
+2026-05-27 12:15:09,686 - aiogram.event - INFO - Update id=263864207 is handled. Duration 77 ms by bot id=8789903383
+2026-05-27 12:15:11,822 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-27 12:15:11,890 - aiogram.event - INFO - Update id=263864208 is handled. Duration 458 ms by bot id=8789903383
+2026-05-27 12:15:16,232 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 12:15:17,399 - aiogram.event - INFO - Update id=263864209 is handled. Duration 1220 ms by bot id=8789903383
+2026-05-27 12:15:27,986 - aiogram.event - INFO - Update id=263864210 is handled. Duration 92 ms by bot id=8789903383
+2026-05-27 12:15:30,555 - __main__ - INFO - Admin 905349442: FILTER_BY_STATUS (status=DONE, count=2)
+2026-05-27 12:15:30,778 - aiogram.event - INFO - Update id=263864211 is handled. Duration 393 ms by bot id=8789903383
+2026-05-27 12:19:37,824 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-05-27 12:19:37,842 - aiogram.dispatcher - INFO - Polling stopped for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:19:37,843 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-27 12:19:41,528 - __main__ - INFO - 🤖 Бот запущен
+2026-05-27 12:19:41,529 - aiogram.dispatcher - INFO - Start polling
+2026-05-27 12:19:41,705 - aiogram.dispatcher - INFO - Run polling for bot @BistHubBot id=8789903383 - 'Bist_bot'
+2026-05-27 12:20:08,527 - __main__ - INFO - User 905349442: START
+2026-05-27 12:20:08,711 - aiogram.event - INFO - Update id=263864212 is handled. Duration 185 ms by bot id=8789903383
+2026-05-27 12:20:12,050 - __main__ - INFO - User 905349442: LOGIN_START
+2026-05-27 12:20:12,118 - aiogram.event - INFO - Update id=263864213 is handled. Duration 69 ms by bot id=8789903383
+2026-05-27 12:20:15,656 - aiogram.event - INFO - Update id=263864214 is handled. Duration 73 ms by bot id=8789903383
+2026-05-27 12:20:17,973 - __main__ - INFO - User 905349442: LOGIN_SUCCESS (role=admin)
+2026-05-27 12:20:18,047 - aiogram.event - INFO - Update id=263864215 is handled. Duration 406 ms by bot id=8789903383
+2026-05-27 12:20:21,788 - __main__ - INFO - Admin 905349442: VIEW_ALL_ORDERS (count=9)
+2026-05-27 12:20:22,548 - aiogram.event - INFO - Update id=263864216 is handled. Duration 799 ms by bot id=8789903383
+2026-05-27 12:20:27,636 - aiogram.event - INFO - Update id=263864217 is handled. Duration 74 ms by bot id=8789903383

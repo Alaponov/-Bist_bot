@@ -982,3 +982,446 @@ INFO 2026-05-26 15:16:48,717 log 15877 6215217152 "GET /admin/jsi18n/ HTTP/1.1" 
 INFO 2026-05-26 15:16:51,959 log 15877 6215217152 "GET /admin/users/user/1/change/ HTTP/1.1" 200 27402
 INFO 2026-05-26 15:16:51,992 log 15877 6215217152 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
 INFO 2026-05-26 15:16:54,420 log 15877 6215217152 "GET /admin/users/user/ HTTP/1.1" 200 15417
+INFO 2026-05-26 15:18:11,629 log 15877 6232043520 "GET /api/orders/ HTTP/1.1" 200 17936
+INFO 2026-05-26 15:18:11,652 log 15877 6232043520 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,652 log 15877 6248869888 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,655 log 15877 6232043520 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,655 log 15877 6265696256 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,656 log 15877 6248869888 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,657 log 15877 6282522624 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,657 log 15877 6299348992 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,657 log 15877 6316175360 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,658 log 15877 6232043520 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,658 log 15877 6248869888 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:18:11,658 log 15877 6265696256 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2026-05-26 15:37:07,781 log 15877 6130511872 "GET /api/users/profile/ HTTP/1.1" 200 57
+INFO 2026-05-26 15:37:07,783 log 15877 6164164608 "GET /api/orders/ HTTP/1.1" 200 661
+INFO 2026-05-26 15:37:07,783 log 15877 6147338240 "GET /api/orders/ HTTP/1.1" 200 661
+INFO 2026-05-26 15:53:55,590 log 15877 6130511872 "GET /api/orders/ HTTP/1.1" 200 661
+WARNING 2026-05-26 15:54:27,188 log 15877 6130511872 Not Found: /
+WARNING 2026-05-26 15:54:27,189 log 15877 6130511872 "GET / HTTP/1.1" 404 2781
+INFO 2026-05-26 15:54:31,428 log 15877 6130511872 "GET /admin/ HTTP/1.1" 200 11104
+INFO 2026-05-26 15:54:31,446 log 15877 6130511872 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-05-26 15:54:31,456 log 15877 6130511872 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:54:33,086 log 15877 6130511872 "GET /admin/users/user/ HTTP/1.1" 200 15417
+INFO 2026-05-26 15:54:33,113 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:54:33,132 log 15877 6147338240 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:54:33,132 log 15877 6130511872 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:54:33,133 log 15877 6130511872 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-26 15:54:34,787 log 15877 6130511872 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 15:54:34,819 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:54:38,473 log 15877 6130511872 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 15:54:38,520 log 15877 6130511872 "GET /admin/users/user/ HTTP/1.1" 200 15610
+INFO 2026-05-26 15:54:38,557 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:55:03,388 log 15877 6164164608 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-26 15:55:12,922 log 15877 6130511872 "GET /admin/users/user/add/ HTTP/1.1" 200 15872
+INFO 2026-05-26 15:55:12,952 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:57:26,344 log 15877 6130511872 "POST /admin/users/user/add/ HTTP/1.1" 200 16106
+INFO 2026-05-26 15:57:26,373 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:57:46,217 log 15877 6130511872 "POST /admin/users/user/add/ HTTP/1.1" 200 16186
+INFO 2026-05-26 15:57:46,242 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:58:19,641 log 15877 6130511872 "POST /admin/users/user/add/ HTTP/1.1" 200 16122
+INFO 2026-05-26 15:58:19,676 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:58:43,675 log 15877 6130511872 "POST /admin/users/user/add/ HTTP/1.1" 200 16111
+INFO 2026-05-26 15:58:43,698 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:59:07,514 log 15877 6130511872 "POST /admin/users/user/add/ HTTP/1.1" 302 0
+INFO 2026-05-26 15:59:07,564 log 15877 6130511872 "GET /admin/users/user/4/change/ HTTP/1.1" 200 27618
+INFO 2026-05-26 15:59:07,608 log 15877 6130511872 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 15:59:50,904 log 15877 6164164608 "POST /api/users/login/ HTTP/1.1" 200 108
+INFO 2026-05-26 16:00:22,156 log 15877 6164164608 "POST /api/orders/ HTTP/1.1" 201 150
+INFO 2026-05-26 16:00:30,364 log 15877 6164164608 "GET /api/orders/ HTTP/1.1" 200 948
+INFO 2026-05-26 16:01:54,058 log 15877 6147338240 "GET /api/orders/ HTTP/1.1" 200 948
+INFO 2026-05-26 16:06:59,968 log 15877 6147338240 "PATCH /api/orders/7/ HTTP/1.1" 200 164
+INFO 2026-05-26 16:06:59,969 log 15877 6164164608 "PATCH /api/orders/7/ HTTP/1.1" 200 164
+INFO 2026-05-26 16:06:59,971 basehttp 15877 6147338240 - Broken pipe from ('127.0.0.1', 54461)
+INFO 2026-05-26 16:07:02,784 log 15877 6147338240 "PATCH /api/orders/7/ HTTP/1.1" 200 160
+INFO 2026-05-26 16:07:04,521 log 15877 6147338240 "PATCH /api/orders/7/ HTTP/1.1" 200 164
+INFO 2026-05-26 16:07:06,724 log 15877 6147338240 "GET /api/orders/ HTTP/1.1" 200 953
+INFO 2026-05-26 16:08:26,507 log 15877 6147338240 "GET /admin/users/user/ HTTP/1.1" 200 15881
+INFO 2026-05-26 16:08:26,540 log 15877 6147338240 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:08:29,311 log 15877 6147338240 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 16:08:29,339 log 15877 6147338240 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:08:35,922 log 15877 6147338240 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 16:08:35,972 log 15877 6147338240 "GET /admin/users/user/ HTTP/1.1" 200 16080
+INFO 2026-05-26 16:08:36,020 log 15877 6147338240 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:08:53,551 log 15877 6180990976 "POST /api/users/login/ HTTP/1.1" 200 103
+INFO 2026-05-26 16:09:16,056 log 15877 6180990976 "POST /api/orders/ HTTP/1.1" 201 133
+INFO 2026-05-26 16:09:26,987 log 15877 6147338240 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 16:09:27,013 log 15877 6147338240 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:09:51,175 log 15877 6180990976 "POST /api/users/login/ HTTP/1.1" 200 103
+INFO 2026-05-26 16:10:04,866 log 15877 6147338240 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 16:10:04,892 log 15877 6147338240 "GET /admin/users/user/ HTTP/1.1" 200 16077
+INFO 2026-05-26 16:10:04,930 log 15877 6147338240 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:10:21,927 log 15877 6180990976 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-26 16:10:27,824 log 15877 6180990976 "GET /api/orders/ HTTP/1.1" 200 1087
+INFO 2026-05-26 16:23:52,244 log 15877 6164164608 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 16:23:52,286 log 15877 6164164608 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:23:59,106 log 15877 6164164608 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 16:23:59,156 log 15877 6164164608 "GET /admin/users/user/ HTTP/1.1" 200 16080
+INFO 2026-05-26 16:23:59,194 log 15877 6164164608 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:24:10,962 log 15877 6147338240 "POST /api/users/login/ HTTP/1.1" 200 103
+INFO 2026-05-26 16:25:07,692 log 15877 6147338240 "POST /api/orders/ HTTP/1.1" 201 144
+INFO 2026-05-26 16:25:17,019 log 15877 6164164608 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 16:25:17,055 log 15877 6164164608 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:25:21,134 log 15877 6164164608 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 16:25:21,183 log 15877 6164164608 "GET /admin/users/user/ HTTP/1.1" 200 16077
+INFO 2026-05-26 16:25:21,239 log 15877 6164164608 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:25:38,125 log 15877 6180990976 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-26 16:25:41,784 log 15877 6180990976 "GET /api/orders/ HTTP/1.1" 200 1232
+INFO 2026-05-26 16:29:34,740 log 15877 6164164608 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 16:29:34,785 log 15877 6164164608 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 16:34:10,324 log 15877 6180990976 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-26 16:44:38,741 log 15877 6164164608 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 16:44:38,743 log 15877 6197817344 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 16:44:38,744 log 15877 6231470080 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 16:44:38,745 log 15877 6147338240 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 16:44:38,744 log 15877 6180990976 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 16:44:38,744 log 15877 6214643712 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 16:44:38,855 log 15877 6147338240 "GET /api/orders/ HTTP/1.1" 200 1232
+INFO 2026-05-26 16:44:46,943 log 15877 6147338240 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 16:45:05,467 log 15877 6147338240 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 16:45:10,405 log 15877 6147338240 "GET /api/orders/ HTTP/1.1" 200 1232
+INFO 2026-05-26 16:47:57,352 log 15877 6147338240 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 17:19:24,773 log 15877 6147338240 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 17:30:50,755 log 15877 6147338240 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 17:43:49,041 log 15877 6147338240 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 17:43:52,683 log 15877 6147338240 "GET /api/users/profile/ HTTP/1.1" 200 54
+INFO 2026-05-26 18:46:59,803 log 15877 6147338240 "GET /admin/users/user/ HTTP/1.1" 200 15881
+INFO 2026-05-26 18:46:59,854 log 15877 6164164608 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,854 log 15877 6180990976 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,854 log 15877 6197817344 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,858 log 15877 6214643712 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,859 log 15877 6231470080 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,860 log 15877 6164164608 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,860 log 15877 6231470080 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,860 log 15877 6180990976 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,861 log 15877 6214643712 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,863 log 15877 6197817344 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,863 log 15877 6180990976 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,864 log 15877 6214643712 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,864 log 15877 6231470080 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,864 log 15877 6164164608 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,864 log 15877 6197817344 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,866 log 15877 6214643712 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,868 log 15877 6147338240 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 18:46:59,868 log 15877 6214643712 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:46:59,871 log 15877 6214643712 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,512 log 15877 6214643712 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-26 18:47:46,553 log 15877 6147338240 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,553 log 15877 6197817344 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,554 log 15877 6147338240 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,555 log 15877 6231470080 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,556 log 15877 6231470080 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,556 log 15877 6164164608 "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,563 log 15877 6164164608 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,565 log 15877 6164164608 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,567 log 15877 6164164608 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,567 log 15877 6214643712 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 18:47:46,592 log 15877 6164164608 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,593 log 15877 6231470080 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:46,593 log 15877 6214643712 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:47:50,305 log 15877 6214643712 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-26 18:47:50,343 log 15877 6214643712 "GET /admin/users/user/ HTTP/1.1" 200 16080
+INFO 2026-05-26 18:47:50,368 log 15877 6214643712 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 18:47:50,376 log 15877 6214643712 "GET /static/admin/img/icon-yes-dark.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:48:07,391 autoreload 18936 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 18:48:42,588 log 18936 6190706688 "POST /api/users/login/ HTTP/1.1" 200 103
+INFO 2026-05-26 18:48:52,690 log 18936 6190706688 "GET /api/users/profile/ HTTP/1.1" 200 57
+WARNING 2026-05-26 18:49:05,294 log 18936 6190706688 Not Found: /
+WARNING 2026-05-26 18:49:05,295 log 18936 6190706688 "GET / HTTP/1.1" 404 2781
+INFO 2026-05-26 18:49:10,031 log 18936 6190706688 "GET /admin/ HTTP/1.1" 200 12117
+INFO 2026-05-26 18:49:10,051 log 18936 6190706688 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:49:10,055 log 18936 6190706688 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:49:11,716 log 18936 6190706688 "GET /admin/users/user/ HTTP/1.1" 200 15884
+INFO 2026-05-26 18:49:11,742 log 18936 6190706688 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-26 18:49:11,757 log 18936 6207533056 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:49:11,757 log 18936 6190706688 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:49:11,758 log 18936 6207533056 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-26 18:50:12,181 log 18936 6207533056 "GET /admin/users/user/3/change/ HTTP/1.1" 200 27402
+INFO 2026-05-26 18:50:12,217 log 18936 6207533056 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+ERROR 2026-05-26 18:52:09,534 log 18936 6224359424 Internal Server Error: /api/users/login/
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/users/views.py", line 26, in post
+    user.save()
+    ~~~~~~~~~^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/contrib/auth/base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 874, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 966, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1110, in _save_table
+    results = self._do_update(
+        base_qs,
+    ...<5 lines>...
+        returning_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1213, in _do_update
+    return filtered._update(values, returning_fields)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/query.py", line 1327, in _update
+    return query.get_compiler(self.db).execute_returning_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2140, in execute_returning_sql
+    row_count = self.execute_sql(ROW_COUNT)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2111, in execute_sql
+    row_count = super().execute_sql(result_type)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 1624, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+ERROR 2026-05-26 18:52:09,545 log 18936 6224359424 "POST /api/users/login/ HTTP/1.1" 500 177736
+INFO 2026-05-26 18:52:09,545 basehttp 18936 6224359424 - Broken pipe from ('127.0.0.1', 55048)
+INFO 2026-05-26 18:52:22,340 log 18936 6207533056 "GET /admin/users/user/3/password/ HTTP/1.1" 200 10984
+INFO 2026-05-26 18:52:22,354 log 18936 6207533056 "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 304 0
+INFO 2026-05-26 18:52:28,441 log 18936 6207533056 "POST /admin/users/user/3/password/ HTTP/1.1" 302 0
+INFO 2026-05-26 18:52:28,484 log 18936 6207533056 "GET /admin/users/user/3/change/ HTTP/1.1" 200 27538
+INFO 2026-05-26 18:52:28,513 log 18936 6207533056 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+ERROR 2026-05-26 18:53:10,207 log 18936 6241185792 Internal Server Error: /api/users/login/
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/macbook/Desktop/Bist_Bot/users/views.py", line 26, in post
+    user.save()
+    ~~~~~~~~~^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/contrib/auth/base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 874, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 966, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1110, in _save_table
+    results = self._do_update(
+        base_qs,
+    ...<5 lines>...
+        returning_fields,
+    )
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/base.py", line 1213, in _do_update
+    return filtered._update(values, returning_fields)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/query.py", line 1327, in _update
+    return query.get_compiler(self.db).execute_returning_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2140, in execute_returning_sql
+    row_count = self.execute_sql(ROW_COUNT)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 2111, in execute_sql
+    row_count = super().execute_sql(result_type)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/models/sql/compiler.py", line 1624, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/macbook/Desktop/Bist_Bot/.venv/lib/python3.14/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "users_user_telegram_id_key"
+DETAIL:  Key (telegram_id)=(905349442) already exists.
+
+ERROR 2026-05-26 18:53:10,210 log 18936 6241185792 "POST /api/users/login/ HTTP/1.1" 500 177736
+INFO 2026-05-26 18:53:10,211 basehttp 18936 6241185792 - Broken pipe from ('127.0.0.1', 55056)
+INFO 2026-05-26 18:53:54,480 log 18936 6258012160 "POST /api/users/login/ HTTP/1.1" 200 103
+INFO 2026-05-26 19:12:15,977 log 18936 6190706688 "POST /api/users/login/ HTTP/1.1" 200 108
+INFO 2026-05-26 19:12:58,791 log 18936 6190706688 "GET /api/users/profile/ HTTP/1.1" 200 62
+INFO 2026-05-26 19:13:29,256 log 18936 6190706688 "GET /api/orders/ HTTP/1.1" 200 1232
+INFO 2026-05-26 19:13:29,302 log 18936 6190706688 "GET /api/orders/ HTTP/1.1" 200 1232
+INFO 2026-05-26 19:13:29,302 log 18936 6207533056 "GET /api/orders/ HTTP/1.1" 200 1232
+INFO 2026-05-26 19:14:39,480 log 18936 6190133248 "POST /api/orders/ HTTP/1.1" 201 205
+INFO 2026-05-26 19:15:42,965 log 18936 6190133248 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-26 19:16:16,963 log 18936 6190133248 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-26 19:16:37,432 log 18936 6190133248 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-26 19:16:53,328 log 18936 6190133248 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-26 19:17:40,069 log 18936 6190133248 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-26 19:18:05,717 log 18936 6190133248 "GET /api/users/profile/ HTTP/1.1" 200 57
+INFO 2026-05-26 19:21:33,369 autoreload 19579 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-26 19:21:48,853 log 19579 6134067200 "GET /admin/users/user/?o=4.1 HTTP/1.1" 200 16588
+INFO 2026-05-26 19:21:48,890 log 19579 6134067200 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-27 08:11:03,005 autoreload 20509 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-27 08:12:46,635 log 20509 6123433984 "POST /api/users/login/ HTTP/1.1" 200 103
+INFO 2026-05-27 08:12:55,730 log 20509 6123433984 "GET /api/users/profile/ HTTP/1.1" 200 57
+INFO 2026-05-27 08:13:04,346 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1146
+WARNING 2026-05-27 08:13:25,438 log 20509 6123433984 Not Found: /
+WARNING 2026-05-27 08:13:25,438 log 20509 6123433984 "GET / HTTP/1.1" 404 2781
+INFO 2026-05-27 08:13:29,514 log 20509 6123433984 "GET /admin/ HTTP/1.1" 200 12125
+INFO 2026-05-27 08:13:29,527 log 20509 6123433984 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:29,528 log 20509 6123433984 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:29,531 log 20509 6157086720 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:29,531 log 20509 6140260352 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:29,532 log 20509 6190739456 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:29,532 log 20509 6173913088 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:29,534 log 20509 6190739456 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:29,538 log 20509 6190739456 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:29,538 log 20509 6173913088 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,221 log 20509 6173913088 "GET /admin/users/user/ HTTP/1.1" 200 15893
+INFO 2026-05-27 08:13:31,234 log 20509 6173913088 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,239 log 20509 6190739456 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,240 log 20509 6207565824 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,239 log 20509 6140260352 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,241 log 20509 6123433984 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,241 log 20509 6157086720 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,241 log 20509 6207565824 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,241 log 20509 6190739456 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,245 log 20509 6190739456 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,243 log 20509 6140260352 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,245 log 20509 6207565824 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,247 log 20509 6207565824 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,251 log 20509 6173913088 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-27 08:13:31,262 log 20509 6207565824 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,263 log 20509 6173913088 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:31,263 log 20509 6207565824 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:34,980 log 20509 6207565824 "GET /admin/users/user/2/change/ HTTP/1.1" 200 27448
+INFO 2026-05-27 08:13:35,001 log 20509 6157086720 "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,001 log 20509 6190739456 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,002 log 20509 6173913088 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,002 log 20509 6123433984 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,001 log 20509 6140260352 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,003 log 20509 6140260352 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,009 log 20509 6207565824 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-27 08:13:35,010 log 20509 6140260352 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,011 log 20509 6140260352 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,030 log 20509 6207565824 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,030 log 20509 6140260352 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:35,030 log 20509 6123433984 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:13:41,477 log 20509 6123433984 "POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+INFO 2026-05-27 08:13:41,521 log 20509 6123433984 "GET /admin/users/user/ HTTP/1.1" 200 16086
+INFO 2026-05-27 08:13:41,545 log 20509 6123433984 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-05-27 08:13:41,559 log 20509 6123433984 "GET /static/admin/img/icon-yes-dark.svg HTTP/1.1" 304 0
+INFO 2026-05-27 08:14:12,661 log 20509 6224392192 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-27 08:15:16,327 log 20509 6224392192 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 08:42:29,315 log 20509 6123433984 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-27 08:42:32,934 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 08:43:46,748 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 08:44:08,123 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 08:44:42,732 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 09:07:59,147 log 20509 6123433984 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-27 09:08:04,220 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 09:08:18,919 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 09:08:35,402 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 09:08:38,443 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 09:11:04,987 log 20509 6123433984 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-27 09:11:14,574 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 09:13:31,749 log 20509 6123433984 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-27 09:13:37,270 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1438
+INFO 2026-05-27 09:13:43,969 log 20509 6123433984 "PATCH /api/orders/10/ HTTP/1.1" 200 215
+INFO 2026-05-27 09:13:57,847 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1439
+INFO 2026-05-27 09:15:11,821 log 20509 6123433984 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-27 09:15:16,231 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1439
+INFO 2026-05-27 09:15:30,554 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1439
+INFO 2026-05-27 09:20:17,972 log 20509 6123433984 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-27 09:20:21,787 log 20509 6123433984 "GET /api/orders/ HTTP/1.1" 200 1439
