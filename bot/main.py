@@ -179,13 +179,14 @@ class LoggingMiddleware(BaseMiddleware):
         user_id = None
 
         try:
-            if event.message:
-                user_id = event.message.from_user.id
-                text = event.message.text[:50] if event.message.text else "media"
+            # Проверяем через isinstance вместо .message/.callback_query
+            if isinstance(event, Message):
+                user_id = event.from_user.id
+                text = event.text[:50] if event.text else "media"
                 logger.info(f"📨 Message from {user_id}: {text}")
-            elif event.callback_query:
-                user_id = event.callback_query.from_user.id
-                logger.info(f"🔘 Callback from {user_id}: {event.callback_query.data}")
+            elif isinstance(event, CallbackQuery):
+                user_id = event.from_user.id
+                logger.info(f"🔘 Callback from {user_id}: {event.data}")
 
             result = await handler(event, data)
             elapsed = time.time() - start_time
@@ -194,14 +195,14 @@ class LoggingMiddleware(BaseMiddleware):
 
         except Exception as e:
             logger.error(f"❌ Error in handler: {str(e)}", exc_info=True)
-            if event.message:
+            if isinstance(event, Message):
                 try:
-                    await event.message.answer("❌ Ошибка при обработке запроса. Попробуйте позже.")
+                    await event.answer("❌ Ошибка при обработке запроса. Попробуйте позже.")
                 except:
                     pass
-            elif event.callback_query:
+            elif isinstance(event, CallbackQuery):
                 try:
-                    await event.callback_query.answer("❌ Ошибка", show_alert=True)
+                    await event.answer("❌ Ошибка", show_alert=True)
                 except:
                     pass
             raise

@@ -1440,3 +1440,6 @@ INFO 2026-05-27 11:41:43,454 autoreload 26767 8483643008 /Users/macbook/Desktop/
 INFO 2026-05-27 11:41:44,168 autoreload 28066 8483643008 Watching for file changes with StatReloader
 INFO 2026-05-27 11:43:01,590 autoreload 28066 8483643008 /Users/macbook/Desktop/Bist_Bot/orders/models.py changed, reloading.
 INFO 2026-05-27 11:43:02,021 autoreload 28112 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-27 11:46:42,795 autoreload 28354 8483643008 Watching for file changes with StatReloader
+INFO 2026-05-27 12:04:05,946 log 28354 6130593792 "POST /api/users/login/ HTTP/1.1" 200 100
+INFO 2026-05-27 12:04:10,436 log 28354 6130593792 "GET /api/orders/ HTTP/1.1" 200 1439
